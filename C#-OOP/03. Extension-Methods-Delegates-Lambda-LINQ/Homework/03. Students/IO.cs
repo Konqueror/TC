@@ -37,6 +37,29 @@ namespace _03.Students
 
             // 5.Using the extension methods OrderBy() and ThenBy() with lambda expressions sort the 
             // students by first name and last name in descending order. Rewrite the same with LINQ.
+            var OrderByAndThenBy = ClassMates.OrderBy((student) => student.FirstName).ThenBy((student) => student.LastName);
+            Console.WriteLine("\nWith OrderBy() and ThenBy()");
+            foreach (Student student in OrderByAndThenBy)
+            {
+                Console.Write(student.FirstName + " ");
+                Console.Write(student.LastName + " ");
+                Console.Write(student.Age);
+                Console.WriteLine();
+            }
+            
+            // Leths do the same with LINQ
+            var withLINQ =
+            from student in ClassMates
+            orderby student.FirstName, student.LastName
+            select student;
+            Console.WriteLine("\nWith LINQ");
+            foreach (var student in withLINQ)
+            {
+                Console.Write(student.FirstName + " ");
+                Console.Write(student.LastName + " ");
+                Console.Write(student.Age);
+                Console.WriteLine();
+            }
 
         }
         static void Sort(Student[] ClassMates)
