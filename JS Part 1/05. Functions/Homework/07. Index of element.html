@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> </title>
+
+        <script>
+            function checkElement(numbers, position) {
+
+                if (numbers[position] > numbers[parseInt(position) + 1] && numbers[position] > numbers[parseInt(position) -1]){
+                    return true;
+                } else {
+                    return false;
+                }
+
+            }
+            function checkAll(numbers)
+            {
+                var numbers = numbers.split(',');
+                for (var i = 0; i < numbers.length; i++) {
+                    if (checkElement(numbers, i) == true)
+                        return alert(i);
+                };
+                return alert(-1);
+            }
+        </script>
+    </head>
+    <body>
+        <p>06. Write a function that checks if the element at given position in given array of integers is bigger than its two neighbors (when such exist).</p>
+        <form>
+            <input type="text" name="numbers" placeholder="Enter numbers devided by comma" />
+            <input type="submit" Value="Run" onClick="checkAll(this.form.numbers.value)">
+        </form>
+    
+    </body>
+</html>

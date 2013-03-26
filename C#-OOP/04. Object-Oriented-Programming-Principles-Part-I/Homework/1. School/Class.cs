@@ -7,6 +7,7 @@ namespace School
         private List<Student> students;
         private List<Teacher> teachers;
         private string id;
+        private string comment;
 
         public List<Student> Students
         {
@@ -14,9 +15,35 @@ namespace School
             {
                 return this.students;
             }
+            //Check for unique id
             set
             {
-                this.students = value;
+                bool foundDuplicated = false;
+                for (int i = 0; i < value.Count; i++)
+                {
+                    for (int j = i + 1; j < value.Count; j++)
+                    {
+                        if (value[i].Number == value[j].Number)
+                        {
+                            foundDuplicated = true;
+                            break;
+                        }
+                       
+                    }
+                    if (foundDuplicated == true)
+                    {
+                        break;
+                    }
+                }
+
+                if (foundDuplicated == true)
+                {
+                    throw new System.ArgumentException("Student id have to be unique");
+                }
+                else
+                {
+                    this.students = value;
+                }
             }
         }
 
@@ -46,9 +73,18 @@ namespace School
         // Constructor
         public Class(List<Student> students, List<Teacher> teachers, string id)
         {
-            this.students = students;
+            this.Students = students;
             this.teachers = teachers;
-            this.id = id;
+            this.Id = id;
+        }
+
+        public void AddComment(string comment)
+        {
+            this.comment = comment;
+        }
+        public string ShowComment()
+        {
+            return this.comment;
         }
     }
 }

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> </title>
+
+        <script>
+            function func(numbers, position) {
+                var numbers = numbers.split(',');
+
+                if (numbers[position] > numbers[parseInt(position) + 1] && numbers[position] > numbers[parseInt(position) - 1]){
+                    return alert(true);
+                } else {
+                    return alert(false);
+                }
+
+            }
+        </script>
+    </head>
+    <body>
+        <p>06. Write a function that checks if the element at given position in given array of integers is bigger than its two neighbors (when such exist).</p>
+        <form>
+            <input type="text" name="numbers" placeholder="Enter numbers devided by comma" />
+            <input type="text" name="position" placeholder="Enter a position" />
+            <input type="submit" Value="Run" onClick="func(this.form.numbers.value, this.form.position.value)">
+        </form>
+    
+    </body>
+</html>

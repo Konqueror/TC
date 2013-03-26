@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>05. Name of digit</title>
+
+        <script>
+            function nameDigit(form) {
+
+                var number = parseInt(form.number.value);
+                var numberName;
+
+                switch (number) {
+                    case 1: numberName = "One"; break;
+                    case 2: numberName = "Two"; break;
+                    case 3: numberName = "Three"; break;
+                    case 4: numberName = "Four"; break;
+                    case 5: numberName = "Five"; break;
+                    case 6: numberName = "Six"; break;
+                    case 7: numberName = "Seven"; break;
+                    case 8: numberName = "Eight"; break;
+                    case 9: numberName = "Nine"; break;
+                    default: numberName = "Not a digit"; break;
+                }
+                alert(numberName);
+                
+            }
+        </script>
+    </head>
+    <body>
+        <p>05. Write script that asks for a digit and depending on the input shows the name of that digit (in English) using a switch statement</p>
+        <form>
+            <input type="text" name="number" placeholder="Enter a number here">
+            <input type="submit" Value="Check!" onClick="nameDigit(this.form)">
+        </form>
+    </body>
+</html>

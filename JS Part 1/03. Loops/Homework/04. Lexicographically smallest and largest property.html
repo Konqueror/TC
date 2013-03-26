@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>04.Lexicographically smallest and largest property</title>
+
+        <script>
+            function testResults(form) {
+                var objects = new Array(document, window, navigator);
+                var min, max;
+                var newObject = false;
+
+                for (var i = 0; i < objects.length; i++) {
+                    for (var name in objects[i]) {
+                        if (newObject == false) {
+                            min = name;
+                            max = name;
+                        }
+
+                        if (newObject == true) {
+                            for (var j = 0; j < min.length; j++) {
+                                if (min[j].toLowerCase() >= name[j].toLowerCase()) {
+                                    min = name;
+                                }
+                                else {
+                                    if (max[j].toLowerCase() <= name[j].toLowerCase()) {
+                                        max = name;
+                                    }
+                                    break;
+                                }
+                            }
+                        }
+                        newObject = true;
+                    }
+                    alert("In: " + objects[i] + "\nMin: " + min + "\nMax: " + max);
+                }
+            }
+        </script>
+    </head>
+    <body>
+        <p>04. Write a script that finds the lexicographically smallest and largest property in document, window and navigator objects</p>
+        <form>
+            <input type="submit" Value="Check!" onClick="testResults(this.form)">
+        </form>
+	
+    </body>
+</html>

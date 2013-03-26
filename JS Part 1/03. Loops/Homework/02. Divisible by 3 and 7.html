@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>02. Divisible by 3 and 7</title>
+
+        <script>
+            function testResults(form) {
+
+                var number = form.number.value;
+                if (number < 21) {
+                    alert("No such a numbers!");
+                }
+                else {
+                    var result = "";
+                    for (var i = 1; i < number; i++) {
+                        if (i % 21 == 0) { //7*3 = 21
+                            result = result + i + "\n";
+                        }
+                    }
+                    alert(result);
+                }
+            }
+        </script>
+    </head>
+    <body>
+        <p>02. Write a script that prints all the numbers from 1 to N, that are not divisible by 3 and 7 at the same time</p>
+        <form>
+            <input type="text" name="number" placeholder="Enter a number here">
+            <input type="submit" Value="Check!" onClick="testResults(this.form)">
+        </form>
+	
+    </body>
+</html>

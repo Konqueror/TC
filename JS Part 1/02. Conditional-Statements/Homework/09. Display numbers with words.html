@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>08. Display numbers with words</title>
+
+        <script>
+            function display(form) {
+
+                var number = parseInt(form.number.value);
+
+                if (number != "") { // first check if it isne't empty
+
+                    var numbers =
+                    [
+                        "Zero",
+                        "One",
+                        "Two",
+                        "Three",
+                        "Four",
+                        "Five",
+                        "Six",
+                        "Seven",
+                        "Eight",
+                        "Nine"
+                    ];
+
+                    var twoDigitsNumbers =
+                    [
+                        "Ten",
+                        "Eleven",
+                        "Twelve",
+                        "Thir",
+                        "Four",
+                        "Fif",
+                        "Six",
+                        "Seven",
+                        "Eigh",
+                        "Nine"
+                    ];
+
+                    if (number < 100) {
+                        alert(FirstTwoNumbers(number, numbers, twoDigitsNumbers));
+                    }
+                    else if (number % 100 == 0) {
+                        alert(FirstTwoNumbers(number / 100, numbers, twoDigitsNumbers) + " hundred");
+                    }
+                    else if (number % 100 < 13) {
+                        alert(FirstTwoNumbers(number / 100, numbers, twoDigitsNumbers) + " hundred and " + FirstTwoNumbers(number % 100, numbers, twoDigitsNumbers));
+                    }
+                    else {
+                        alert(FirstTwoNumbers(number / 100, numbers, twoDigitsNumbers) + " hundred " + FirstTwoNumbers(number % 100, numbers, twoDigitsNumbers));
+                    }
+                }
+
+            }
+
+
+            function FirstTwoNumbers(n, numbers, twoDigitsNumbers)
+            {
+                if (n < 10)
+                {
+                    return numbers[n];
+                }
+                else if (n < 13)
+                {
+                    return twoDigitsNumbers[n % 10];
+                }
+                else if (n < 20)
+                {
+                    return twoDigitsNumbers[n % 10] + "teen";
+                }
+                else if (n == 20)
+                {
+                    return "Twenty";
+                }
+                else if (n < 30)
+                {
+                    return "Twenty" + " " + numbers[n % 10];
+                }
+                else if (n % 10 == 0)
+                {
+                    return twoDigitsNumbers[parseInt(n / 10)] + "ty";
+                }
+                else
+                {
+                    return twoDigitsNumbers[parseInt(n / 10)] + "ty " + numbers[parseInt(n % 10)];
+                }
+            }
+           
+        </script>
+    </head>
+    <body>
+        <p>08. Write a script that converts a number in the range [0...999] to a text corresponding to its English pronunciation</p>
+        <form>
+            <input type="text" name="number" placeholder="Enter a number here">
+            <input type="submit" Value="Check!" onClick="display(this.form)">
+        </form>
+    </body>
+</html>

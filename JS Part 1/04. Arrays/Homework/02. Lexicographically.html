@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>02. Lexicographically</title>
+
+        <script>
+            function func(form) {
+                var firstCharArr = form.firstCharArr.value;
+                var secondCharArr = form.secondCharArr.value;
+
+                var firstCharArr=firstCharArr.split(",");
+                var secondCharArr=secondCharArr.split(",");
+
+                var equal = true;
+                for (var i = 0; i < Math.max(firstCharArr.length,secondCharArr.length);i++) { 
+                    if (firstCharArr[i] != secondCharArr[i]) {
+                        equal = false;
+                        break;
+                    };
+                };
+
+                alert("The two char array lexicographically equal: " + equal);
+
+
+            }
+        </script>
+    </head>
+    <body>
+        <p>02. Write a script that compares two char arrays lexicographically (letter by letter).</p>
+        <form>
+            <input type="text" name="firstCharArr" placeholder="Enter a char array devided by commas" size="40"/>
+            <input type="text" name="secondCharArr" placeholder="Enter a char array devided by commas" size="40"/>
+
+            <input type="submit" Value="Run" onClick="func(this.form)">
+        </form>
+	
+    </body>
+</html>

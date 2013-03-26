@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>01. Prints all the numbers</title>
+
+        <script>
+            function testResults(form) {
+
+                var number = form.number.value;
+                var result = "";
+                for (var i = 1; i < number; i++) {
+                    result = result + i + "\n";
+                }
+                alert(result);
+            }
+        </script>
+    </head>
+    <body>
+        <p>01. Write a script that prints all the numbers from 1 to N</p>
+        <form>
+            <input type="text" name="number" placeholder="Enter a number here">
+            <input type="submit" Value="Check!" onClick="testResults(this.form)">
+        </form>
+	
+    </body>
+</html>

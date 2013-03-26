@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>02. Swow the sign</title>
+
+        <script>
+            function sign(form) {
+
+                var firstNumber = form.firstNumber.value;
+                var secondNumber = form.secondNumber.value;
+                var thirdNumber = form.thirdNumber.value;
+
+                if (firstNumber != "" && secondNumber != "" && thirdNumber != "") { // first check if it isne't empty
+                    var minuses = 0;
+                    if (firstNumber < 0) {
+                        minuses++;
+                    }
+                    if (secondNumber < 0) {
+                        minuses++
+                    }
+                    if (thirdNumber < 0) {
+                        minuses++;
+                    }
+                    if (minuses % 2 == 0) {
+                        alert("The sign is +");
+                    }
+                    else {
+                        alert("The sign is -");
+                    }
+                }
+            }
+        </script>
+    </head>
+    <body>
+        <p>02. Write a script that shows the sign (+ or -) of the product of three real numbers without calculating it. Use a sequence of if statements.</p>
+        <form>
+            <input type="text" name="firstNumber" placeholder="Enter a number here">
+            <input type="text" name="secondNumber" placeholder="Enter a number here">
+            <input type="text" name="thirdNumber" placeholder="Enter a number here">
+            <input type="submit" Value="Check!" onClick="sign(this.form)">
+        </form>
+    </body>
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>06. Most Frequent number</title>
+
+        <script>
+            function func(form) {
+                var intArr = form.intArr.value;
+                var number = parseInt(form.number.value);
+
+                var intArr=intArr.split(",");
+                //Sort it first
+                intArr = intArr.sort();
+
+                var middle = parseInt((intArr.length) / 2);
+
+                var start = 0;
+                var end     = intArr.length - 1;
+                var middle  = Math.floor((end + start)/2);
+
+                while(intArr[middle] != number && start < end){
+
+                    //adjust search area
+                    if (parseInt(number) < parseInt(intArr[middle])){
+                        end = middle - 1;
+                    } else if (parseInt(number) > parseInt(intArr[middle])){
+                        start = middle + 1;
+                    }
+
+                    //recalculate middle
+                    middle = Math.floor((end + start)/2);
+                }
+
+                //make sure it's the right value
+                alert((parseInt(intArr[middle]) != parseInt(number)) ? -1 : middle);
+
+            }
+        </script>
+    </head>
+    <body>
+        <p>07. Write a program that finds the index of given element in a sorted array of integers by using the binary search algorithm (find it in Wikipedia)</p>
+        <form>
+            <input type="text" name="intArr" placeholder="Enter a int array devided by commas" size="40"/><br>
+            <input type="text" name="number" placeholder="Enter a number that you wont to find" size="40" />
+            <input type="submit" Value="Run" onClick="func(this.form)">
+        </form>
+	
+    </body>
+</html>

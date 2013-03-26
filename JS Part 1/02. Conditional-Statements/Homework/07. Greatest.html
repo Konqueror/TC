@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>07. Greatest</title>
+
+        <script>
+            function greatest(form) {
+
+                var a = parseFloat(form.a.value);
+                var b = parseFloat(form.b.value);
+                var c = parseFloat(form.c.value);
+                var d = parseFloat(form.d.value);
+                var e = parseFloat(form.e.value);
+                
+                var greatest = a;
+
+                if (greatest < b) {
+                    greatest = b;
+                }
+
+                if (greatest < c) {
+                    greatest = c;
+                }
+
+                if (greatest < d) {
+                    greatest = d;
+                }
+
+                if (greatest < e) {
+                    greatest = e;
+                }
+                
+                alert(greatest);
+            }
+        </script>
+    </head>
+    <body>
+        <p>07. Write a script that finds the greatest of given 5 variables.</p>
+        <form>
+            <input type="text" name="a" placeholder="a" size="3">
+            <input type="text" name="b" placeholder="b" size="3"> 
+            <input type="text" name="c" placeholder="c" size="3">
+            <input type="text" name="d" placeholder="a" size="3">
+            <input type="text" name="e" placeholder="b" size="3"> 
+            <input type="submit" Value="Check!" onClick="greatest(this.form)">
+        </form>
+    </body>
+</html>

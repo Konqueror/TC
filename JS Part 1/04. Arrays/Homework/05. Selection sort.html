@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>05. Selection sort</title>
+
+        <script>
+            function func(form) {
+                var intArr = form.intArr.value;
+
+                var intArr=intArr.split(",");
+
+                var min = intArr[0], index = 0; element = 0;
+
+                for (var i = 0; i < intArr.length; i++)
+                {
+                    min = intArr[i];
+                    index = i;
+                    for (var j = i+1; j < intArr.length; j++)
+                    {
+                        if (parseInt(intArr[j]) < parseInt(min))
+                        {
+                            min = intArr[j];
+                            index = j;
+                        }
+                    }
+
+                    //swap elements
+                    element = intArr[i];
+                    intArr[i] = min;
+                    intArr[index] = element;
+                }
+                // Transofrm to stringto be able to alert it.
+                var result = "";
+                for (var i = 0; i < intArr.length; i++) {
+                    result = result + intArr[i] + " ";
+                };
+
+                alert(result);
+            }
+        </script>
+    </head>
+    <body>
+        <p>05. Sorting an array means to arrange its elements in increasing order. Write a script to sort an array. Use the "selection sort" algorithm: Find the smallest element, move it at the first position, find the smallest from the rest, move it at the second position, etc.
+        Hint: Use a second array</p>
+        <form>
+            <input type="text" name="intArr" placeholder="Enter a int array devided by commas" size="40"/>
+
+            <input type="submit" Value="Run" onClick="func(this.form)">
+        </form>
+	
+    </body>
+</html>

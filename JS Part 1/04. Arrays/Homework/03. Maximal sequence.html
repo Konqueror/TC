@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>03. Maximal sequence</title>
+
+        <script>
+            function func(form) {
+                var intArr = form.intArr.value;
+
+                var intArr = intArr.split(",");
+                var counter = 1, Length = 1, StartIndex = 0;
+
+                for (var i = 1; i < intArr.length; i++)
+                {
+                    if (intArr[i] == intArr[i - 1])
+                    {
+                        counter++;
+                        if (counter >= Length)
+                        {
+                            Length = counter;
+                            StartIndex = i-Length+1;
+                        }
+                    }
+                    else
+                    {
+                        counter = 1;
+                    }
+                }
+
+                alert("we have " + Length + " times " + intArr[StartIndex]);
+
+
+            }
+        </script>
+    </head>
+    <body>
+        <p>03. Write a script that finds the maximal sequence of equal elements in an array.<br/>
+        Example: {2, 1, 1, 2, 3, 3, 2, 2, 2, 1} => {2, 2, 2}.</p>
+        <form>
+            <input type="text" name="intArr" placeholder="Enter a int array devided by commas" size="40"/>
+
+            <input type="submit" Value="Run" onClick="func(this.form)">
+        </form>
+	
+    </body>
+</html>

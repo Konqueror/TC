@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>01. Array of 20 elements</title>
+
+        <script>
+            function func(form) {
+                var arr = new Array();
+                var result = "";
+
+                for (var i = 1; i <= 20; i++) {
+                    arr[i] = i * 5;
+                    result = result + arr[i] + "\n";
+                };
+                alert(result);
+            }
+        </script>
+    </head>
+    <body>
+        <p>01. Write a script that allocates array of 20 integers and initializes each element by its index multiplied by 5. Print the obtained array on the console.</p>
+        <form>
+            <input type="submit" Value="Run" onClick="func(this.form)">
+        </form>
+	
+    </body>
+</html>

@@ -1,0 +1,40 @@
+@media only screen and (max-width : 480px) {
+    body #wrapper {
+        width: 100%;
+    }
+
+    body #wrapper h1 {
+        text-align: center;
+    }
+
+    body #wrapper > header {
+        padding-top: 0px;
+        border-bottom:0px;
+    }
+
+    body #wrapper section header .slider {
+        display: none;
+    }
+
+    #wrapper header nav ul li {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 5px;
+    }
+
+    body #wrapper > footer {
+        position: static;
+        border: none;
+    }
+
+    body #wrapper > section article {
+        width: 100%;
+        border: none;
+        border-radius: 0;
+        border-bottom: 1px solid black;
+    }
+
+    section h1 {
+        font-size: 1.8em;
+    }
+}

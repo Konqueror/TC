@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>06. Most Frequent number</title>
+
+        <script>
+            function func(form) {
+                var intArr = form.intArr.value;
+
+                var intArr=intArr.split(",");
+
+                var min = intArr[0], index = 0; element = 0;
+
+                for (var i = 0; i < intArr.length; i++)
+                {
+                    min = intArr[i];
+                    index = i;
+                    for (var j = i+1; j < intArr.length; j++)
+                    {
+                        if (parseInt(intArr[j]) < parseInt(min))
+                        {
+                            min = intArr[j];
+                            index = j;
+                        }
+                    }
+
+                    //swap elements
+                    element = intArr[i];
+                    intArr[i] = min;
+                    intArr[index] = element;
+                }
+                var counter = 0;
+                var curent = 0;
+                var curentIndex = 0;
+
+                for(var i = 1; i < intArr.length; i++)
+                {
+                    if(intArr[i] != intArr[i-1])
+                    {
+                        if(curent > counter)
+                        {
+                            counter = curent;
+                            curentIndex = i-1;
+                        }
+                        curent = 0;
+                    }
+                    else
+                    {
+                        curent++;
+                    }
+                }
+                // Transofrm to stringto be able to alert it.
+            
+
+                alert("We have: " + intArr[curentIndex] + " - " + (parseInt(counter) + 1) + " times");
+            }
+        </script>
+    </head>
+    <body>
+        <p>06. Write a program that finds the most frequent number in an array. Example:
+            {4, 1, 1, 4, 2, 3, 4, 4, 1, 2, 4, 9, 3} => 4 (5 times)</p>
+        <form>
+            <input type="text" name="intArr" placeholder="Enter a int array devided by commas" size="40"/>
+
+            <input type="submit" Value="Run" onClick="func(this.form)">
+        </form>
+	
+    </body>
+</html>

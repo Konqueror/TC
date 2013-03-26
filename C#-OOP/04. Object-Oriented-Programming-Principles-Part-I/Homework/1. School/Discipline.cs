@@ -2,11 +2,12 @@
 
 namespace School
 {
-    class Discipline
+    class Discipline : IComment
     {
         private string name;
         private int lectures;
         private int exercises;
+        private string comment;
 
         public string Name
         {
@@ -49,6 +50,15 @@ namespace School
             this.Name = name;
             this.Lectures = lectures;
             this.Exercises = exercises;
+        }
+
+        public void AddComment(string comment)
+        {
+            this.comment = comment;
+        }
+        public string ShowComment()
+        {
+            return this.comment;
         }
     }
 }

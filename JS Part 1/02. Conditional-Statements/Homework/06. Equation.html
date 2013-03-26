@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>06. Equation</title>
+
+        <script>
+            function nameDigit(form) {
+
+                var a = parseFloat(form.a.value);
+                var b = parseFloat(form.b.value);
+                var c = parseFloat(form.c.value);
+                var diskriminanta = (b * b) - (4 * a * c);
+                var x1;
+                var x2;
+
+                if (a != 0) {
+                    if (diskriminanta > 0) {
+                        x1 = (-b + Math.sqrt(diskriminanta)) / (2 * a);
+                        x2 = (-b - Math.sqrt(diskriminanta)) / (2 * a);
+
+                        alert("x1 = " + x1 + "\nx2 = " + x2);
+                    }
+                    else if (diskriminanta == 0) {
+                        x1 = (-b + Math.sqrt(diskriminanta)) / (2 * a);
+                        alert("Only one root: " + x1);
+                    }
+                    else {
+                        alert("There are no roots!");
+                    }
+
+                } else {
+                    x1 = -c / b;
+                    alert("Only one root: " + x1);
+                }
+                
+            }
+        </script>
+    </head>
+    <body>
+        <p>06. Write a script that enters the coefficients a, b and c of a quadratic equation a*x2 + b*x + c = 0 and calculates and prints its real roots. Note that quadratic equations may have 0, 1 or 2 real roots</p>
+        <form>
+            <input type="text" name="a" placeholder="a" size="3">*x2 + 
+            <input type="text" name="b" placeholder="b" size="3">*x + 
+            <input type="text" name="c" placeholder="c" size="3">
+            <input type="submit" Value="Check!" onClick="nameDigit(this.form)">
+        </form>
+    </body>
+</html>

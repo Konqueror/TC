@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> </title>
+
+        <script>
+            function func(number) {
+                var result = "";
+
+                for (var i = number.length-1; i >= 0; i--) {
+
+                    result += number[i];
+                
+                };
+
+                return alert(result);
+
+            }
+        </script>
+    </head>
+    <body>
+        <p>02. Write a function that reverses the digits of given decimal number. Example: 256 > 652</p>
+        <form>
+            <input type="text" name="number" placeholder="Enter a number" />
+            <input type="submit" Value="Run" onClick="func(this.form.number.value)">
+        </form>
+	
+    </body>
+</html>

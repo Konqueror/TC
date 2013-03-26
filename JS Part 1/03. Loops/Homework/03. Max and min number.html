@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>03.Max and min number</title>
+
+        <script>
+            function testResults(form) {
+
+                var numbers = form.numbers.value;
+                var splitedArr = numbers.split(",")
+                var min = splitedArr[0];
+                var max = splitedArr[0];
+
+                for (var i = 0; i < splitedArr.length ; i++) {
+                    if (parseInt(splitedArr[i]) > parseInt(max))
+                        max = splitedArr[i];
+
+                    if (parseInt(splitedArr[i]) < parseInt(min))
+                        min = splitedArr[i];
+                }
+
+                alert("Min: " + min + "\nMax: " + max);
+            }
+        </script>
+    </head>
+    <body>
+        <p>03. Write a script that finds the max and min number from a sequence of numbers</p>
+        <form>
+            <input type="text" name="numbers" size="40" placeholder="Enter a numbers separate with commas">
+            <input type="submit" Value="Check!" onClick="testResults(this.form)">
+        </form>
+	
+    </body>
+</html>

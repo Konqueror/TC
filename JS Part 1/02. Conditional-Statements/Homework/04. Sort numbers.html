@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>04. Sort numbers</title>
+
+        <script>
+            function sort(form) {
+
+                var firstNumber = parseFloat(form.firstNumber.value);
+                var secondNumber = parseFloat(form.secondNumber.value);
+                var thirdNumber = parseFloat(form.thirdNumber.value);
+
+                if (firstNumber != "" && secondNumber != "" && thirdNumber != "") { // first check if it isne't empty
+
+                    var biggestNumber;
+                    var middleNumber;
+                    var smallestNumber;
+                    // Big compear logic
+                    if (firstNumber > secondNumber) {
+                        if (firstNumber > thirdNumber) {
+                            biggestNumber = firstNumber; 
+                            if (secondNumber > thirdNumber) {
+                                middleNumber = secondNumber;
+                                smallestNumber = thirdNumber;
+                            }
+                            else {
+                                middleNumber = thirdNumber;
+                                smallestNumber = secondNumber;
+                            }
+                        }
+                        else {
+                            biggestNumber = thirdNumber;
+                            if (firstNumber > secondNumber) {
+                                middleNumber = firstNumber;
+                                smallestNumber = secondNumber;
+                            }
+                            else {
+                                middleNumber = thirdNumber;
+                                smallestNumber = secondNumber;
+                            }
+                        }
+                    }
+                    else {
+                        if (secondNumber > thirdNumber) {
+                            biggestNumber = secondNumber;
+                            if (firstNumber > thirdNumber) {
+                                middleNumber = firstNumber;
+                                smallestNumber = thirdNumber;
+                            }
+                            else {
+                                middleNumber = thirdNumber;
+                                smallestNumber = firstNumber;
+                            }
+                        }
+                        else {
+                            biggestNumber = thirdNumber;
+                            if (firstNumber > secondNumber) {
+                                middleNumber = firstNumber;
+                                smallestNumber = secondNumber;
+                            }
+                            else {
+                                middleNumber = secondNumber;
+                                smallestNumber = firstNumber;
+                            }
+                        }
+                    }
+                    
+                    alert(biggestNumber + " > " + middleNumber + " > " + smallestNumber);
+                }
+            }
+        </script>
+    </head>
+    <body>
+        <p>04. Sort 3 real values in descending order using nested if statements.</p>
+        <form>
+            <input type="text" name="firstNumber" placeholder="Enter a number here">
+            <input type="text" name="secondNumber" placeholder="Enter a number here">
+            <input type="text" name="thirdNumber" placeholder="Enter a number here">
+            <input type="submit" Value="Check!" onClick="sort(this.form)">
+        </form>
+    </body>
+</html>

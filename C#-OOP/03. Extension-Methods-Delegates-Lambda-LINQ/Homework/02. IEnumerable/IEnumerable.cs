@@ -7,6 +7,7 @@ namespace _02.IEnumerable
     public static class IEnumerableExtensions
     {
         public static T Sum<T>(this IEnumerable<T> elements)
+
         where T : struct, IComparable, IFormattable, IConvertible, IComparable<T>, IEquatable<T>
         {
             if (elements == null)
@@ -63,6 +64,7 @@ namespace _02.IEnumerable
             return min;
         }
         public static T Max<T>(this IEnumerable<T> elements)
+
         where T : struct, IComparable, IFormattable, IConvertible, IComparable<T>, IEquatable<T>
         {
             if (elements == null)
@@ -83,6 +85,7 @@ namespace _02.IEnumerable
             return max;
         }
         public static T Average<T>(this IEnumerable<T> elements)
+
         where T : struct, IComparable, IFormattable, IConvertible, IComparable<T>, IEquatable<T>
         {
             if (elements == null)

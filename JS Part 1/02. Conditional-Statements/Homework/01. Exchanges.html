@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>01. Exchanges</title>
+
+        <script>
+            function exchanges(form) {
+
+                var firstNumber = form.firstNumber.value;
+                var secondNumber = form.secondNumber.value;
+
+                if (firstNumber != "" && secondNumber != "") { // first check if it isne't empty
+                    if (firstNumber > secondNumber) {
+                        //Exchanges
+                        var exchangeValue = firstNumber;
+                        firstNumber = secondNumber;
+                        secondNumber = exchangeValue;
+                        alert("Exchange done");
+                    }
+                    else {
+                        alert("No need to exchange");
+                    }
+                }
+            }
+        </script>
+    </head>
+    <body>
+        <p>01. Write an if statement that examines two integer variables and exchanges their values if the first one is greater than the second one.</p>
+        <form>
+            <input type="text" name="firstNumber" placeholder="Enter a number here">
+            <input type="text" name="secondNumber" placeholder="Enter a number here">
+            <input type="submit" Value="Check!" onClick="exchanges(this.form)">
+        </form>
+	
+    </body>
+</html>

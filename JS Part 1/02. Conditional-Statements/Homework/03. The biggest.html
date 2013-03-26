@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>03. The biggest</title>
+
+        <script>
+            function theBiggest(form) {
+
+                var firstNumber = parseFloat(form.firstNumber.value);
+                var secondNumber = parseFloat(form.secondNumber.value);
+                var thirdNumber = parseFloat(form.thirdNumber.value);
+
+                if (firstNumber != "" && secondNumber != "" && thirdNumber != "") { // first check if it isne't empty
+                    var theBiggestNumber = 0;
+
+                    if (firstNumber > secondNumber) {
+                        if (firstNumber > thirdNumber) {
+                            theBiggestNumber = firstNumber;
+                        }
+                        else {
+                            theBiggestNumber = thirdNumber;
+                        }
+                    }
+                    else {
+                        if (secondNumber > thirdNumber) {
+                            theBiggestNumber = secondNumber;
+                        }
+                        else {
+                            theBiggestNumber = thirdNumber;
+                        }
+                    }
+                    alert("The biggest number is: " + theBiggestNumber);
+                }
+            }
+        </script>
+    </head>
+    <body>
+        <p>03. Write a script that finds the biggest of three integers using nested if statements.</p>
+        <form>
+            <input type="text" name="firstNumber" placeholder="Enter a number here">
+            <input type="text" name="secondNumber" placeholder="Enter a number here">
+            <input type="text" name="thirdNumber" placeholder="Enter a number here">
+            <input type="submit" Value="Check!" onClick="theBiggest(this.form)">
+        </form>
+    </body>
+</html>
