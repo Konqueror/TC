@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> </title>
+
+        <script>
+            function func(str) {
+
+                var open = 0;
+                var close = 0;
+
+                for (var i = 0; i < str.length; i++) {
+                    if(str[i] == '(')
+                        open++;
+
+                    else if(str[i] == ')')
+                            close++;
+
+                    if (close > open) {
+                        return alert(false);   
+                    };
+
+                };
+
+                if (open == close) {
+                    return alert(true);
+                };
+              
+            }
+        </script>
+    </head>
+    <body>
+        <p>02. Write a JavaScript function to check if in a given expression the brackets are put correctly.</p>
+
+        <form>
+            <input typle="text" name="input" placeholder="Enter string" />
+            <input type="submit" Value="Run" onClick="func(this.form.input.value)"/>
+        </form>
+    
+    </body>
+</html>

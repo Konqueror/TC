@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> </title>
+
+        <script>
+            function func(numbers, number) {
+
+                var Animal = {
+                    Name: "Sharo",
+                    age: 12,
+                    color: "brown",
+                }
+
+                var Human = copyObject(Animal);
+                
+                alert(Human.Name);
+            }
+
+            function copyObject(clone)
+            {       
+                var result = {};
+
+                for(var prop in clone)
+                {
+                    result[prop] = clone[prop];
+                }
+
+                return result;
+            }
+
+        </script>
+    </head>
+    <body>
+        <p>03. Write a function that makes a deep copy of an object</p>
+            <ul>
+                <li>The function should work for both primitive and reference types</li>
+            </ul>
+
+        <form>
+            <input type="submit" Value="Run" onClick="func()">
+        </form>
+	
+    </body>
+</html>

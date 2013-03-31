@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> </title>
+
+        <script>
+            function func(numbers, number) {
+
+                var numbers = numbers.split(',');
+
+                numbers.remove(number);
+
+                alert(numbers);
+            }
+
+            Array.prototype.remove = function(item) {
+                var result = new Array();
+
+                for(var i = 0; i < this.length; i++)
+                {
+                    if(this[i] == item)
+                    {
+                        this.splice(i, 1);
+                    }
+                }
+            }
+
+        </script>
+    </head>
+    <body>
+        <p>02. Write a function that removes all elements with a given value</p>
+            <ul>
+                <li>Attach it to the array class</li>
+                <li>Read about prototype and how to attach methods</li>
+            </ul>
+
+        <form>
+            <input type="text" name="numbers" placeholder="Enter arrays devided by commas" /><br>
+            <input type="text" name="number" placeholder="Enter a number" /><br>            
+            
+            <input type="submit" Value="Run" onClick="func(this.form.numbers.value, this.form.number.value)">
+        </form>
+	
+    </body>
+</html>

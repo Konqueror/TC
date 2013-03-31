@@ -1,0 +1,33 @@
+td, tr, img  { padding: 0px; margin: 0px; border: none; }
+table { border-collapse:collapse; }
+
+img {
+    margin:0px;
+    margin-right:-1px;
+    margin-top:-5px;
+    margin-left: -7px;
+    display:block;
+}
+
+#bottom {
+    background: url(images/bottom.png);
+    height: 7px;
+}
+
+#bottom-right {
+    background: url(images/bottom-right.png);
+}
+
+#right {
+    background: url(images/right.png) repeat-y;
+    width:7px;
+}
+
+#top-rigth {
+    background: url(images/top-right.png) repeat-y;
+    height:7px;
+}
+#bottom-left {
+    background: url(images/bottom-left.png) repeat-y;
+    width:7px;
+}

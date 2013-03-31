@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> </title>
+
+        <script>
+            function func(str) {
+
+                var result = '';
+
+                    for (var i = 0; i < str.length; i++) {
+
+                        if (str[i] == ' ') {
+                            result += "&nbsp";
+                        }
+                        else {
+                            result += str[i];
+                        }
+                    }
+
+                return alert(result);   
+            }
+        </script>
+    </head>
+    <body>
+        <p>05. Write a function that replaces non breaking white-spaces in a text with &nbsp;</p>
+
+        <form>
+            <textarea rows="5" cols="50" name="input"></textarea><br>
+            <input type="submit" Value="Run" onClick="func(this.form.input.value)"/>
+        </form>
+    
+    </body>
+</html>

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Test area</title>
+	</head>
+	<body>
+        Write a function that creates a HTML UL using a template for every HTML LI. The source of the list should an array of elements. Replace all placeholders marked with -{...}-   with the value of the corresponding property of the object
+		<div data-type="template" id="list-item">
+		 <strong>-{name}-</strong> <span>-{age}-</span>
+		 <strong>-{name}-</strong> <span>-{age}-</span> <span>-{value}-</span>
+		</div>
+
+		<script type="text/javascript">
+		    var people = [{ name: "Rosen Gacov", age: 35 }, { name: "Kukata", age: 40}];
+
+		    var tmpl = document.getElementById('list-item');
+		    var t = 0;
+
+		    var result = '<ul id="' + tmpl.id + '">';
+		    for (var i = 0; i < people.length; i++) {
+		        result += '<li>';
+		        for (var child in people[i]) {
+		            result += '<' + tmpl.children[t].tagName.toLowerCase() + '>';
+		            result += people[i][tmpl.children[t].innerHTML.replace(/[-][{]/gi, '').replace(/[}][-]/gi, '')];
+		            result += '</' + tmpl.children[t++].tagName.toLowerCase() + '>';
+		        }
+		        result += '</li>';
+		    }
+		    result += '</ul>';
+
+		    //replace the div html
+		    tmpl.innerHTML = result;
+		</script>
+	</body>
+</html>

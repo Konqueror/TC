@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> </title>
+
+        <script>
+            function func(str) {
+
+                var protocol;
+                var server;
+                var resource;
+
+                var protocol = str.split("://")[0];
+                var server = str.split("://")[1].split('/')[0];
+                var resourceTemp = str.split("://")[1].split('/');
+                var resource = "";
+                for (var i = 1; i < resourceTemp.length; i++) {
+                    resource += "/" + resourceTemp[i];
+                };
+                resource[resource.length] = ' ';
+                alert("Protocol: " + protocol + "\nServer: " + server + "\nResource: " + resource);
+            }
+        </script>
+    </head>
+    <body>
+        <p>07. Write a script that parses an URL address given in the format: [protocol]://[server]/[resource]  </p>
+
+        <form>
+            <input type="text" name="input" value="http://www.devbg.org/forum/index.php"/>
+            <input type="submit" Value="Run" onClick="func(this.form.input.value)"/>
+        </form>
+    
+    </body>
+</html>

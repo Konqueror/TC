@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> </title>
+
+        <script>
+            function func(str) {
+
+                return alert(str.replace(/<a(.*)>(.*)<\/a>/gi, HTMLtoBBcode));
+            }
+
+            function HTMLtoBBcode(match)
+            {
+                match = match.replace(/<a/gi, '[URL');
+                match = match.replace(/>/gi, ']');
+                match = match.replace(/<\/a/gi, '[/URL');
+                return match;
+            }
+        </script>
+    </head>
+    <body>
+        <p>08. Write a JavaScript function that replaces in a HTML document given as string all the tags <@ href="…">…</@> with corresponding tags [URL=…]…/URL]. Sample HTML fragment: </p>
+
+        <form>
+            <textarea name="input" rows="5" cols="80"><p>Please visit <a href="http://academy.telerik. com">our site</a> to choose a training course. Also visit <a href="www.devbg.org">our forum</a> to discuss the courses.</p>
+            </textarea><br>
+            <input type="submit" Value="Run" onClick="func(this.form.input.value)"/>
+        </form>
+    
+    </body>
+</html>

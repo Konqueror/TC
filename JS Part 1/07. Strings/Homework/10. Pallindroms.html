@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> </title>
+
+        <script>
+            function func(str) {    
+                str = str.split(' ');
+
+                var palindromes = new Array();
+                var index = 0;
+
+                for (var i = 0; i < str.length; i++) {
+                    if(checkForPalindrom(str[i])){
+                        palindromes[index] = str[i];
+                        index++;
+                    }
+                };
+
+                return alert(palindromes);
+            }
+
+            function checkForPalindrom(word) 
+            {
+                var i; 
+
+                for (i = 0; i < word.length; i++) { 
+                    if (word.charAt(i) != word.charAt(word.length-1-i)) { 
+                        return false; 
+                    } 
+                } 
+                return true; 
+            }
+        </script>
+    </head>
+    <body>
+        <p>10. Write a program that extracts from a given text all palindromes, e.g. "ABBA", "lamal", "exe".</p>
+
+        <form>
+            <textarea name="input" rows="5" cols="80">ABBA is like 1001</textarea><br>
+            <input type="submit" Value="Run" onClick="func(this.form.input.value)"/>
+        </form>
+    
+    </body>
+</html>

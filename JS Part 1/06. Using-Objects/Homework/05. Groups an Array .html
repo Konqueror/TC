@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> </title>
+
+        <script>
+            function func() {
+
+                var persons = [ // People?
+                  {firstname : "Gosho", lastname: "Petrov", age: 32}, 
+                  {firstname : "Bay", lastname: "Ivan", age: 81}, ];
+
+                alert(findYoungestPerson(persons).firstname + " Is the youngest person");
+            }
+
+            function findYoungestPerson(people) {
+                var minimumAge = people[0].age;
+                var youngest = people[0];
+
+                for (var i = 0; i < people.length; i++) {
+                    if (minimumAge > people[i].age) {
+                        minimumAge = people[i].age;
+                        youngest = people[i];
+                    }
+                }
+                return youngest;
+            }
+
+        </script>
+    </head>
+    <body>
+        <p>05. Write a function that finds the youngest person in a given array of persons and prints his/hers full name
+                Each person have properties firstname, lastname and age, as shown:</p>
+
+        <form>
+            <input type="submit" Value="Run" onClick="func()">
+        </form>
+	
+    </body>
+</html>

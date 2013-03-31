@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> </title>
+
+        <script>
+            function func() {
+                    
+                var str = stringFormat("Hello {0}!", "Peter");
+
+                alert(str);
+            }
+
+            function stringFormat(input)
+            {
+                for (var i = 0; i < 30; i++) {
+
+                    var regex = new RegExp("[{]" + i + "[}]", "gi");
+                    input = input.replace(regex, arguments[i + 1]);
+                }
+
+                return input;
+            }
+        </script>
+    </head>
+    <body>
+        <p>11. Write a function that formats a string using placeholders</p>
+
+        <form>
+            <input type="submit" Value="Run" onClick="func()"/>
+        </form>
+    
+    </body>
+</html>

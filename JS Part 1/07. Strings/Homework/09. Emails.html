@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> </title>
+
+        <script>
+            function func(str) {    
+                str = str.split(' ');
+
+                var emails = new Array();
+                var index = 0;
+                for (var i = 0; i < str.length; i++) {
+                    if(validateEmail(str[i])){
+                        emails[index] = str[i];
+                        index++;
+                    }
+                };
+
+                return alert(emails);
+            }
+
+            function validateEmail(email) 
+            {
+                var re = /\S+@\S+\.\S+/;
+                return re.test(email);
+            }
+        </script>
+    </head>
+    <body>
+        <p>09. Write a function for extracting all email addresses from given text. All substrings that match the format <identifier>@<host>…<domain> should be recognized as emails. Return the emails as array of strings.</p>
+
+        <form>
+            <textarea name="input" rows="5" cols="80">My name is Asdhas email: asdh@gmail.com and my mother is Afdaoas email: kosuma@abv.bg</textarea><br>
+            <input type="submit" Value="Run" onClick="func(this.form.input.value)"/>
+        </form>
+    
+    </body>
+</html>

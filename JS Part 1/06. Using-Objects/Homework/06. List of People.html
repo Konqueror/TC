@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> </title>
+
+        <script>
+            function Person(age , fName , lName) {
+                this.age = age;
+                this.firstName = fName;
+                this.lastName = lName;
+            }
+            
+             var people =
+                  [
+                   new Person(23, "Ivo", "Andonov"),
+                   new Person(34, "Rosen", "Gacov"),
+                   new Person(30, "Petyr", "Tojarov"),
+                   new Person(24, "Martin", "Hristov")
+                  ];
+                  
+            function func() {
+                var ageArray = people.sort(function(a, b) {
+                                            return a.age - b.age
+                                           });
+                                           
+                var firstNameArray = people.sort(function(a, b) {
+                                                    return a.firstName.localeCompare(b.firstName);
+                                                });
+                                                
+                var lastNameArray = people.sort(function(a, b) {
+                                                    return a.lastName.localeCompare(b.lastName);
+                                                });
+                
+                return {
+                        "age" : ageArray,
+                        "firstName" : firstNameArray,
+                        "lastName" : lastNameArray,    
+                       };
+            }
+
+        </script>
+    </head>
+    <body>
+        <p>06. Write a function that groups an array of persons by age, first or last name. The function must return an associative array, with keys - the groups, and values -arrays with persons in this groups</p>
+
+        <form>
+            <input type="submit" Value="Run" onClick="func()">
+        </form>
+	
+    </body>
+</html>

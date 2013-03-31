@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> </title>
+
+        <script>
+            function func(form) {
+
+                var PointA = new Point(parseInt(form.x1.value), parseInt(form.y1.value)); // Make points with cords form the form
+                var PointB = new Point(parseInt(form.x2.value), parseInt(form.y2.value));
+                var PointC = new Point(parseInt(form.x3.value), parseInt(form.y3.value));
+
+                var a = new Line(PointB, PointC);
+                var b = new Line(PointA, PointC);
+                var c = new Line(PointA, PointB);
+                alert("Thes three lines can form a triangle: " + CheckIfTriangle(a, b, c));
+            }
+
+            function Point(x, y) {
+                this.x = x;
+                this.y = y;
+            }
+
+            function Line(startPoint, endPoint) {
+                this.startPoint = startPoint;
+                this.endPoint = endPoint;
+                this.lenght = Distance(this.startPoint, this.endPoint);
+            }
+
+            function Distance(startPoint, endPoint) {
+                return Math.sqrt((endPoint.x - startPoint.x) * (endPoint.x - startPoint.x) + (endPoint.y - startPoint.y) * (endPoint.y - startPoint.y));
+            }
+
+            function CheckIfTriangle(a, b, c) {
+                if (a.lenght + b.lenght > c.lenght 
+                    && c.lenght + a.lenght > b.lenght 
+                    && b.lenght + c.lenght > a.lenght)
+                {
+                    return true;
+                }
+                else {
+                    return false;
+                }
+            }
+        </script>
+    </head>
+    <body>
+        <p>01.Write functions for working with shapes in  standard Planar coordinate system</p>
+            <ul>
+                <li>Points are represented by coordinates P(X, Y)</li>
+                <li>Lines are represented by two points, marking their beginning and ending</li>
+                <li>L(P1(X1,Y1),P2(X2,Y2))</li>
+                <li>Calculate the distance between two points</li>
+                <li>Check if three segment lines can form a triangle
+            </ul>
+
+        <form>
+        Point A: <br>
+            <input type="text" name="x1" placeholder="Enter x" /><br>
+            <input type="text" name="y1" placeholder="Enter y" /><br>
+        Point B: <br>
+            <input type="text" name="x2" placeholder="Enter x" /><br>
+            <input type="text" name="y2" placeholder="Enter y" /><br>
+        Point C: <br>
+            <input type="text" name="x3" placeholder="Enter x" /><br>
+            <input type="text" name="y3" placeholder="Enter y" /><br>
+            
+            
+            <input type="submit" Value="Run" onClick="func(this.form)">
+        </form>
+	
+    </body>
+</html>

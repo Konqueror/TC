@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> </title>
+
+        <script>
+            function func(str, substr) {
+                str = str.toLowerCase();
+                substr = substr.toLowerCase(); // for case insensitive
+
+                var index = str.indexOf(substr);
+                var counter = 0;
+                while (index>-1) {
+                    counter++;
+                    index = str.indexOf(substr, index + 1);
+                }
+                return alert(counter);
+            }
+        </script>
+    </head>
+    <body>
+        <p>03. Write a JavaScript function that finds how many times a substring is contained in a given text (perform case insensitive search).</p>
+
+        <form>
+            <input typle="text" name="input" placeholder="Enter string" />
+            <input typle="text" name="substring" placeholder="Enter substring" />
+            <input type="submit" Value="Run" onClick="func(this.form.input.value, this.form.substring.value)"/>
+        </form>
+    
+    </body>
+</html>

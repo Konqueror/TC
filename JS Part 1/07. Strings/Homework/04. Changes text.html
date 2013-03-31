@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> </title>
+
+        <script>
+            function func(text) {
+
+                var result = text.replace(/<upcase>(.*?)<\/upcase>/g, toUpperCase);
+                result = result.replace(/<lowcase>(.*?)<\/lowcase>/g, toLowerCase);
+                result = result.replace(/<mixcase>(.*?)<\/mixcase>/g, toMixedCase   );
+
+                //We have to delete all tags!
+                result = result.replace(/<upcase>/gi, '');
+                result = result.replace(/<\/upcase>/gi, '');
+                result = result.replace(/<lowcase>/gi, '');
+                result = result.replace(/<\/lowcase>/gi, '');
+                result = result.replace(/<mixcase>/gi, '');
+                result = result.replace(/<\/mixcase>/gi, '');
+
+                return alert(result);
+            }
+
+            function toUpperCase(match) { return match.toUpperCase(); }
+            function toLowerCase(match) { return match.toLowerCase(); }
+
+            function toMixedCase(match) {
+
+                var result = '';
+                var lowerCase = true;
+                for (var i = 0; i < match.length; i++) {
+                    if (lowerCase == true) {
+                        result += match[i].toUpperCase();
+                        lowerCase = false;
+                    }
+                    else {
+                        result += match[i].toLowerCase();
+                        lowerCase = true;
+                    }
+                }
+
+                return result;
+            }
+        </script>
+    </head>
+    <body>
+        <p>04. You are given a text. Write a function that changes the text in all regions:</p>
+        <ul>
+            <li><upcase>text</upcase> to uppercase.</li>
+            <li><lowcase>text</lowcase> to lowercase</li>
+            <li><mixcase>text</mixcase> to mix casing(random)</li>
+        </ul>
+
+        <form>
+            <textarea rows="5" cols="50" name=text><upcase>text</upcase> to uppercase
+<lowcase>text</lowcase> to lowercase
+<mixcase>text</mixcase> to mix casing(random)
+            </textarea><br>
+            <input type="submit" Value="Run" onClick="func(this.form.text.value)"/>
+        </form>
+    
+    </body>
+</html>

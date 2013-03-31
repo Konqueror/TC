@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> </title>
+
+        <script>
+            function func(str) {
+
+                var result = '';
+                var intag = false;
+
+                for (var i = 0; i < str.length; i++) {
+
+                    if (str[i] == '<') {
+                        intag = true;
+                    }
+                    else if (str[i] == '>') {
+                        intag = false;
+                        continue; // for not adding the > symbol
+                    }
+
+                    if (intag == false) {
+                        result += str[i];
+                    }
+                }
+
+                return alert(result);   
+            }
+        </script>
+    </head>
+    <body>
+        <p>06. Write a function that extracts the content of a html page given as text. The function should return anything that is in a tag, without the tags</p>
+
+        <form>
+            <textarea rows="5" cols="50" name="input"><html><head><title>Sample site</title></head><body><div>text<div>more text</div>and more...</div>in body</body></html></textarea><br>
+            <input type="submit" Value="Run" onClick="func(this.form.input.value)"/>
+        </form>
+    
+    </body>
+</html>
