@@ -1,0 +1,136 @@
+body {
+  line-height: 1;
+  font-family: Arial, Verdana, sans-serif;
+  font-size: 11px; }
+
+h1 {
+  color: #c41e89;
+  font-size: 13px;
+  margin-bottom: 10px; }
+
+a {
+  text-decoration: none; }
+
+#wrapper {
+  width: 778px;
+  border: 1px solid #e1ebf7;
+  margin: 0 auto;
+  background: #E6DEF5;
+  padding: 0; }
+  #wrapper > header {
+    height: 48px;
+    background: #fff; }
+    #wrapper > header #logo {
+      width: 120px;
+      height: 48px;
+      background: #59518c;
+      color: #fff;
+      line-height: 45px;
+      text-align: center;
+      font-size: 100%;
+      font-size: 26px;
+      font-style: italic;
+      float: left; }
+    #wrapper > header #banner {
+      float: right; }
+  #wrapper #content #left-aside {
+    font-size: 10px;
+    background: #f2f3f7;
+    width: 115px;
+    padding-top: 15px;
+    padding-left: 5px;
+    float: left; }
+    #wrapper #content #left-aside .aside-title {
+      color: #424284;
+      font-size: 11px;
+      font-weight: bold; }
+    #wrapper #content #left-aside ul li {
+      margin-left: -33px;
+      padding: 0;
+      margin-top: 3;
+      list-style: none;
+      list-style-image: url("images/black-bullet.png"); }
+      #wrapper #content #left-aside ul li a {
+        text-decoration: none;
+        color: #006699; }
+  #wrapper #content #main {
+    background: #e6def5;
+    padding: 2px; }
+    #wrapper #content #main nav {
+      height: 35px;
+      width: 550px; }
+      #wrapper #content #main nav #stars {
+        font-weight: bold;
+        color: #4b3e82; }
+      #wrapper #content #main nav ul {
+        margin-left: -20px;
+        list-style: none;
+        float: left; }
+        #wrapper #content #main nav ul li:last-child {
+          border: 0 none; }
+        #wrapper #content #main nav ul li {
+          display: inline;
+          padding-right: 7px;
+          margin-right: 7px;
+          border-right: 1px solid; }
+          #wrapper #content #main nav ul li a {
+            text-decoration: none; }
+  #wrapper #content article {
+    padding: 5px;
+    background: #f9f4fd;
+    width: 450px;
+    height: 268px;
+    float: left;
+    margin: 2px;
+    color: #4b3e82; }
+    #wrapper #content article img {
+      float: left;
+      margin: 5px;
+      border: 1px solid; }
+    #wrapper #content article header {
+      margin-top: 20px;
+      width: 270px;
+      float: left;
+      height: 70px;
+      margin-left: 10px; }
+    #wrapper #content article #subtitle {
+      font-weight: bold;
+      float: left;
+      padding-left: 10px;
+      width: 290px; }
+    #wrapper #content article #content {
+      float: left; }
+      #wrapper #content article #content #read-more {
+        display: block;
+        padding-top: 20px; }
+  #wrapper #content #aside-right {
+    background: #f9f4fd;
+    float: left;
+    width: 183px;
+    margin-top: -37px;
+    padding: 5px;
+    height: 305px; }
+    #wrapper #content #aside-right .news {
+      float: left;
+      margin-top: 10px; }
+      #wrapper #content #aside-right .news a {
+        color: #4b3e82; }
+      #wrapper #content #aside-right .news img {
+        border: 1px solid black;
+        float: left;
+        margin-right: 10px; }
+    #wrapper #content #aside-right .links {
+      float: left;
+      width: 80px;
+      margin-left: -30px;
+      list-style: none; }
+      #wrapper #content #aside-right .links li {
+        margin-bottom: 3px;
+        list-style-image: url("images/orange-bullet.png"); }
+  #wrapper footer {
+    clear: both;
+    height: 35px;
+    line-height: 35px;
+    background: #59518c;
+    text-align: center;
+    color: #fff; }
