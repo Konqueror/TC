@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\13. Solve these tasks\bin\Debug\_13.Solve_these_tasks.exe.config
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\13. Solve these tasks\bin\Debug\_13.Solve_these_tasks.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\13. Solve these tasks\bin\Debug\_13.Solve_these_tasks.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\13. Solve these tasks\obj\Debug\_13.Solve_these_tasks.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\13. Solve these tasks\obj\Debug\_13.Solve_these_tasks.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\13. Solve these tasks\obj\Debug\13. Solve these tasks.csprojResolveAssemblyReference.cache

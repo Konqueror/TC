@@ -1,0 +1,7 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\03. Naming Identifiers\Homework\Project\bin\Debug\Minesweeper.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\03. Naming Identifiers\Homework\Project\bin\Debug\Minesweeper.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\03. Naming Identifiers\Homework\Project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\03. Naming Identifiers\Homework\Project\obj\Debug\Minesweeper.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\03. Naming Identifiers\Homework\Project\obj\Debug\Minesweeper.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\03. Naming Identifiers\Homework\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\03. Naming Identifiers\Homework\Minesweeper\obj\Debug\Minesweeper.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\9. Maximal element in a portion\bin\Debug\_9.Maximal_element_in_a_portion.exe.config
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\9. Maximal element in a portion\bin\Debug\_9.Maximal_element_in_a_portion.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\9. Maximal element in a portion\bin\Debug\_9.Maximal_element_in_a_portion.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\9. Maximal element in a portion\obj\Debug\9. Maximal element in a portion.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\9. Maximal element in a portion\obj\Debug\_9.Maximal_element_in_a_portion.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\9. Maximal element in a portion\obj\Debug\_9.Maximal_element_in_a_portion.pdb

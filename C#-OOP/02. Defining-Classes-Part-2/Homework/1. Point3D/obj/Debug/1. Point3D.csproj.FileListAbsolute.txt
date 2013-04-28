@@ -1,0 +1,8 @@
+C:\Homework\Point3D\bin\Debug\Point3D.exe.config
+C:\Homework\Point3D\bin\Debug\Point3D.exe
+C:\Homework\Point3D\bin\Debug\Point3D.pdb
+C:\Homework\Point3D\obj\Debug\Point3D.exe
+C:\Homework\Point3D\obj\Debug\Point3D.pdb
+C:\Homework\1. Point3D\bin\Debug\Point3D.exe.config
+C:\Homework\1. Point3D\obj\Debug\Point3D.exe
+C:\Homework\1. Point3D\obj\Debug\Point3D.pdb

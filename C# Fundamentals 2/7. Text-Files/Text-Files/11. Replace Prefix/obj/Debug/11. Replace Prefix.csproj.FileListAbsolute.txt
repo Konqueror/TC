@@ -1,0 +1,5 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\7. Text-Files\Text-Files\11. Replace Prefix\bin\Debug\_11.Replace_Prefix.exe.config
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\7. Text-Files\Text-Files\11. Replace Prefix\bin\Debug\_11.Replace_Prefix.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\7. Text-Files\Text-Files\11. Replace Prefix\bin\Debug\_11.Replace_Prefix.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\7. Text-Files\Text-Files\11. Replace Prefix\obj\Debug\_11.Replace_Prefix.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\7. Text-Files\Text-Files\11. Replace Prefix\obj\Debug\_11.Replace_Prefix.pdb

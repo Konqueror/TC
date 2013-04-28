@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\7. Text-Files\Text-Files\5. Matrix\bin\Debug\_5.Matrix.exe.config
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\7. Text-Files\Text-Files\5. Matrix\bin\Debug\_5.Matrix.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\7. Text-Files\Text-Files\5. Matrix\bin\Debug\_5.Matrix.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\7. Text-Files\Text-Files\5. Matrix\obj\Debug\5. Matrix.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\7. Text-Files\Text-Files\5. Matrix\obj\Debug\_5.Matrix.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\7. Text-Files\Text-Files\5. Matrix\obj\Debug\_5.Matrix.pdb

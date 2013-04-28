@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\5. Using-Classes-and-Objects\Classes-and-Objects\Classes-and-Objects\bin\Debug\Classes-and-Objects.exe.config
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\5. Using-Classes-and-Objects\Classes-and-Objects\Classes-and-Objects\bin\Debug\Classes-and-Objects.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\5. Using-Classes-and-Objects\Classes-and-Objects\Classes-and-Objects\bin\Debug\Classes-and-Objects.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\5. Using-Classes-and-Objects\Classes-and-Objects\Classes-and-Objects\obj\Debug\1. Leap.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\5. Using-Classes-and-Objects\Classes-and-Objects\Classes-and-Objects\obj\Debug\Classes-and-Objects.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\5. Using-Classes-and-Objects\Classes-and-Objects\Classes-and-Objects\obj\Debug\Classes-and-Objects.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\6. Divisible by 7 and 3\bin\Debug\_6.Divisible_by_7_and_3.exe.config
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\6. Divisible by 7 and 3\bin\Debug\_6.Divisible_by_7_and_3.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\6. Divisible by 7 and 3\bin\Debug\_6.Divisible_by_7_and_3.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\6. Divisible by 7 and 3\obj\Debug\6. Divisible by 7 and 3.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\6. Divisible by 7 and 3\obj\Debug\_6.Divisible_by_7_and_3.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\6. Divisible by 7 and 3\obj\Debug\_6.Divisible_by_7_and_3.pdb

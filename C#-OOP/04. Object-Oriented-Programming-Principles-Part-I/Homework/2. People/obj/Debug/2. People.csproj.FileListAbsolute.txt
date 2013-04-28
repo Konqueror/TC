@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\04. Object-Oriented-Programming-Principles-Part-I\Homework\2. People\bin\Debug\_2.People.exe.config
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\04. Object-Oriented-Programming-Principles-Part-I\Homework\2. People\bin\Debug\_2.People.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\04. Object-Oriented-Programming-Principles-Part-I\Homework\2. People\bin\Debug\_2.People.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\04. Object-Oriented-Programming-Principles-Part-I\Homework\2. People\obj\Debug\_2.People.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\04. Object-Oriented-Programming-Principles-Part-I\Homework\2. People\obj\Debug\_2.People.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\04. Object-Oriented-Programming-Principles-Part-I\Homework\2. People\obj\Debug\2. People.csprojResolveAssemblyReference.cache

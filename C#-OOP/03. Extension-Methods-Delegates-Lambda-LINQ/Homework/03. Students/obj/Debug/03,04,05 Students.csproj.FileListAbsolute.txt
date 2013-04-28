@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\03. Students\bin\Debug\_03.Students.exe.config
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\03. Students\bin\Debug\_03.Students.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\03. Students\bin\Debug\_03.Students.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\03. Students\obj\Debug\03,04,05 Students.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\03. Students\obj\Debug\_03.Students.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\03. Students\obj\Debug\_03.Students.pdb

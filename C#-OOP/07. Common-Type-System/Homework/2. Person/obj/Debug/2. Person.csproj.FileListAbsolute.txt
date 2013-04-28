@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\07. Common-Type-System\Homework\2. Person\bin\Debug\_2.Person.exe.config
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\07. Common-Type-System\Homework\2. Person\bin\Debug\_2.Person.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\07. Common-Type-System\Homework\2. Person\bin\Debug\_2.Person.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\07. Common-Type-System\Homework\2. Person\obj\Debug\2. Person.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\07. Common-Type-System\Homework\2. Person\obj\Debug\_2.Person.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\07. Common-Type-System\Homework\2. Person\obj\Debug\_2.Person.pdb

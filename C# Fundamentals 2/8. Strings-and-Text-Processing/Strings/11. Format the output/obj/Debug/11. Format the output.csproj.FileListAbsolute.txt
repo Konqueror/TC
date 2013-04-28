@@ -1,0 +1,5 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\11. Format the output\bin\Debug\_11.Format_the_output.exe.config
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\11. Format the output\bin\Debug\_11.Format_the_output.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\11. Format the output\bin\Debug\_11.Format_the_output.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\11. Format the output\obj\Debug\_11.Format_the_output.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\11. Format the output\obj\Debug\_11.Format_the_output.pdb

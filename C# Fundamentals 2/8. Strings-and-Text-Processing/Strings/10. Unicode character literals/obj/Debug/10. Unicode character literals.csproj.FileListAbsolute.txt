@@ -1,0 +1,5 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\10. Unicode character literals\bin\Debug\_10.Unicode_character_literals.exe.config
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\10. Unicode character literals\bin\Debug\_10.Unicode_character_literals.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\10. Unicode character literals\bin\Debug\_10.Unicode_character_literals.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\10. Unicode character literals\obj\Debug\_10.Unicode_character_literals.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\10. Unicode character literals\obj\Debug\_10.Unicode_character_literals.pdb

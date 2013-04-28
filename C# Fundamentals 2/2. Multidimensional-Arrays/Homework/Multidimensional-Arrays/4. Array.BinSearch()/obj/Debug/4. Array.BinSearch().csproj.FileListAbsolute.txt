@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\2. Multidimensional-Arrays\Homework\Multidimensional-Arrays\4. Array.BinSearch()\bin\Debug\_4.Array.BinSearch__.exe.config
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\2. Multidimensional-Arrays\Homework\Multidimensional-Arrays\4. Array.BinSearch()\bin\Debug\_4.Array.BinSearch__.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\2. Multidimensional-Arrays\Homework\Multidimensional-Arrays\4. Array.BinSearch()\bin\Debug\_4.Array.BinSearch__.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\2. Multidimensional-Arrays\Homework\Multidimensional-Arrays\4. Array.BinSearch()\obj\Debug\_4.Array.BinSearch__.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\2. Multidimensional-Arrays\Homework\Multidimensional-Arrays\4. Array.BinSearch()\obj\Debug\_4.Array.BinSearch__.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\2. Multidimensional-Arrays\Homework\Multidimensional-Arrays\4. Array.BinSearch()\obj\Debug\4. Array.BinSearch().csprojResolveAssemblyReference.cache

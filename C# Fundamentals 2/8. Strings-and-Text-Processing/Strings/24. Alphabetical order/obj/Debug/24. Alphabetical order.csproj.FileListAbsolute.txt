@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\24. Alphabetical order\bin\Debug\_24.Alphabetical_order.exe.config
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\24. Alphabetical order\bin\Debug\_24.Alphabetical_order.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\24. Alphabetical order\bin\Debug\_24.Alphabetical_order.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\24. Alphabetical order\obj\Debug\24. Alphabetical order.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\24. Alphabetical order\obj\Debug\_24.Alphabetical_order.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\24. Alphabetical order\obj\Debug\_24.Alphabetical_order.pdb

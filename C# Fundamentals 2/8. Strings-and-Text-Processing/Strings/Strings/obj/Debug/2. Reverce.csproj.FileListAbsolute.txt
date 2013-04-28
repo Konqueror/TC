@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\Strings\bin\Debug\Strings.exe.config
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\Strings\bin\Debug\Strings.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\Strings\bin\Debug\Strings.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\Strings\obj\Debug\2. Reverce.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\Strings\obj\Debug\Strings.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\Strings\obj\Debug\Strings.pdb

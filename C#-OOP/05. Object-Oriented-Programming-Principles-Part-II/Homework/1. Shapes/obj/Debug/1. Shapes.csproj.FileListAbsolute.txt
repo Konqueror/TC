@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\05. Object-Oriented-Programming-Principles-Part-II\Homework\1. Shapes\bin\Debug\_1.Shapes.exe.config
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\05. Object-Oriented-Programming-Principles-Part-II\Homework\1. Shapes\bin\Debug\_1.Shapes.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\05. Object-Oriented-Programming-Principles-Part-II\Homework\1. Shapes\bin\Debug\_1.Shapes.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\05. Object-Oriented-Programming-Principles-Part-II\Homework\1. Shapes\obj\Debug\1. Shapes.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\05. Object-Oriented-Programming-Principles-Part-II\Homework\1. Shapes\obj\Debug\_1.Shapes.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\05. Object-Oriented-Programming-Principles-Part-II\Homework\1. Shapes\obj\Debug\_1.Shapes.pdb

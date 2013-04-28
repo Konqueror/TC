@@ -1,0 +1,5 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\7. Time\bin\Debug\_7.Time.exe.config
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\7. Time\bin\Debug\_7.Time.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\7. Time\bin\Debug\_7.Time.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\7. Time\obj\Debug\_7.Time.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\7. Time\obj\Debug\_7.Time.pdb

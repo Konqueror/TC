@@ -1,0 +1,5 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\25. HTML reader\bin\Debug\_25.HTML_reader.exe.config
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\25. HTML reader\bin\Debug\_25.HTML_reader.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\25. HTML reader\bin\Debug\_25.HTML_reader.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\25. HTML reader\obj\Debug\_25.HTML_reader.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\25. HTML reader\obj\Debug\_25.HTML_reader.pdb

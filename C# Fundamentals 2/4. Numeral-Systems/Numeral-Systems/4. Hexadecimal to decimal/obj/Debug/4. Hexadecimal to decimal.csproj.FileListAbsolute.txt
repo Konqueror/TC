@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\4. Numeral-Systems\Numeral-Systems\4. Hexadecimal to decimal\bin\Debug\_4.Hexadecimal_to_decimal.exe.config
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\4. Numeral-Systems\Numeral-Systems\4. Hexadecimal to decimal\obj\Debug\4. Hexadecimal to decimal.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\4. Numeral-Systems\Numeral-Systems\4. Hexadecimal to decimal\bin\Debug\_4.Hexadecimal_to_decimal.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\4. Numeral-Systems\Numeral-Systems\4. Hexadecimal to decimal\bin\Debug\_4.Hexadecimal_to_decimal.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\4. Numeral-Systems\Numeral-Systems\4. Hexadecimal to decimal\obj\Debug\_4.Hexadecimal_to_decimal.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\4. Numeral-Systems\Numeral-Systems\4. Hexadecimal to decimal\obj\Debug\_4.Hexadecimal_to_decimal.pdb

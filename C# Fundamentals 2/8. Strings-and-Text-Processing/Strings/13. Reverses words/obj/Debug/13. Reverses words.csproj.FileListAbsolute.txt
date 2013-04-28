@@ -1,0 +1,5 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\13. Reverses words\bin\Debug\_13.Reverses_words.exe.config
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\13. Reverses words\bin\Debug\_13.Reverses_words.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\13. Reverses words\bin\Debug\_13.Reverses_words.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\13. Reverses words\obj\Debug\_13.Reverses_words.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\13. Reverses words\obj\Debug\_13.Reverses_words.pdb

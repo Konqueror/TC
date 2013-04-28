@@ -1,0 +1,5 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\5. Using-Classes-and-Objects\Classes-and-Objects\2. Random Numbers\bin\Debug\_2.Random_Numbers.exe.config
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\5. Using-Classes-and-Objects\Classes-and-Objects\2. Random Numbers\bin\Debug\_2.Random_Numbers.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\5. Using-Classes-and-Objects\Classes-and-Objects\2. Random Numbers\bin\Debug\_2.Random_Numbers.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\5. Using-Classes-and-Objects\Classes-and-Objects\2. Random Numbers\obj\Debug\_2.Random_Numbers.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\5. Using-Classes-and-Objects\Classes-and-Objects\2. Random Numbers\obj\Debug\_2.Random_Numbers.pdb

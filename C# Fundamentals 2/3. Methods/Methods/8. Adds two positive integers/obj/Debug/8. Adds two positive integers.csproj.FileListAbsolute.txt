@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\8. Adds two positive integers\bin\Debug\_8.Adds_two_positive_integers.exe.config
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\8. Adds two positive integers\bin\Debug\_8.Adds_two_positive_integers.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\8. Adds two positive integers\bin\Debug\_8.Adds_two_positive_integers.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\8. Adds two positive integers\obj\Debug\8. Adds two positive integers.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\8. Adds two positive integers\obj\Debug\_8.Adds_two_positive_integers.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\8. Adds two positive integers\obj\Debug\_8.Adds_two_positive_integers.pdb

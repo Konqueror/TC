@@ -1,0 +1,5 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\7. Text-Files\Text-Files\2. Two text files into another\bin\Debug\_2.Two_text_files_into_another.exe.config
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\7. Text-Files\Text-Files\2. Two text files into another\bin\Debug\_2.Two_text_files_into_another.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\7. Text-Files\Text-Files\2. Two text files into another\bin\Debug\_2.Two_text_files_into_another.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\7. Text-Files\Text-Files\2. Two text files into another\obj\Debug\_2.Two_text_files_into_another.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\7. Text-Files\Text-Files\2. Two text files into another\obj\Debug\_2.Two_text_files_into_another.pdb

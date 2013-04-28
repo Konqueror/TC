@@ -1,0 +1,9 @@
+C:\Telerik-Courses\C#_OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\02. IEnumerable\bin\Debug\_02.IEnumerable.exe.config
+C:\Telerik-Courses\C#_OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\02. IEnumerable\obj\Debug\02. IEnumerable.csprojResolveAssemblyReference.cache
+C:\Telerik-Courses\C#_OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\02. IEnumerable\bin\Debug\_02.IEnumerable.exe
+C:\Telerik-Courses\C#_OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\02. IEnumerable\bin\Debug\_02.IEnumerable.pdb
+C:\Telerik-Courses\C#_OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\02. IEnumerable\obj\Debug\_02.IEnumerable.exe
+C:\Telerik-Courses\C#_OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\02. IEnumerable\obj\Debug\_02.IEnumerable.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\02. IEnumerable\bin\Debug\_02.IEnumerable.exe.config
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\02. IEnumerable\obj\Debug\_02.IEnumerable.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\02. IEnumerable\obj\Debug\_02.IEnumerable.pdb

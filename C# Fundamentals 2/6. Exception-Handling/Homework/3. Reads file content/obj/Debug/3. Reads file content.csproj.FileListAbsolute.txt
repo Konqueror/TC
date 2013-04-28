@@ -1,0 +1,5 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\6. Exception-Handling\New folder\1. Square root\3. Reads file content\bin\Debug\_3.Reads_file_content.exe.config
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\6. Exception-Handling\New folder\1. Square root\3. Reads file content\bin\Debug\_3.Reads_file_content.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\6. Exception-Handling\New folder\1. Square root\3. Reads file content\bin\Debug\_3.Reads_file_content.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\6. Exception-Handling\New folder\1. Square root\3. Reads file content\obj\Debug\_3.Reads_file_content.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\6. Exception-Handling\New folder\1. Square root\3. Reads file content\obj\Debug\_3.Reads_file_content.pdb

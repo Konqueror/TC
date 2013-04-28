@@ -1,0 +1,5 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\5. Using-Classes-and-Objects\Classes-and-Objects\3. Day of the week\bin\Debug\_3.Day_of_the_week.exe.config
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\5. Using-Classes-and-Objects\Classes-and-Objects\3. Day of the week\bin\Debug\_3.Day_of_the_week.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\5. Using-Classes-and-Objects\Classes-and-Objects\3. Day of the week\bin\Debug\_3.Day_of_the_week.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\5. Using-Classes-and-Objects\Classes-and-Objects\3. Day of the week\obj\Debug\_3.Day_of_the_week.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\5. Using-Classes-and-Objects\Classes-and-Objects\3. Day of the week\obj\Debug\_3.Day_of_the_week.pdb

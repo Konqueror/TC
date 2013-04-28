@@ -1,0 +1,5 @@
+C:\Homework\GenericList\bin\Debug\GenericList.exe.config
+C:\Homework\GenericList\bin\Debug\GenericList.exe
+C:\Homework\GenericList\bin\Debug\GenericList.pdb
+C:\Homework\GenericList\obj\Debug\GenericList.exe
+C:\Homework\GenericList\obj\Debug\GenericList.pdb

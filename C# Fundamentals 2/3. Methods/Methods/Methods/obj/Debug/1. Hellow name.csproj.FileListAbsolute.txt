@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\Methods\bin\Debug\Methods.exe.config
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\Methods\bin\Debug\Methods.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\Methods\bin\Debug\Methods.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\Methods\obj\Debug\1. Hellow name.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\Methods\obj\Debug\Methods.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\Methods\obj\Debug\Methods.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\2. Multidimensional-Arrays\Homework\Multidimensional-Arrays\1C. Fills and prints a matrix\bin\Debug\_1C.Fills_and_prints_a_matrix.exe.config
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\2. Multidimensional-Arrays\Homework\Multidimensional-Arrays\1C. Fills and prints a matrix\bin\Debug\_1C.Fills_and_prints_a_matrix.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\2. Multidimensional-Arrays\Homework\Multidimensional-Arrays\1C. Fills and prints a matrix\bin\Debug\_1C.Fills_and_prints_a_matrix.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\2. Multidimensional-Arrays\Homework\Multidimensional-Arrays\1C. Fills and prints a matrix\obj\Debug\1C. Fills and prints a matrix.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\2. Multidimensional-Arrays\Homework\Multidimensional-Arrays\1C. Fills and prints a matrix\obj\Debug\_1C.Fills_and_prints_a_matrix.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\2. Multidimensional-Arrays\Homework\Multidimensional-Arrays\1C. Fills and prints a matrix\obj\Debug\_1C.Fills_and_prints_a_matrix.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\10. N!\bin\Debug\_10.N_.exe.config
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\10. N!\bin\Debug\_10.N_.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\10. N!\bin\Debug\_10.N_.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\10. N!\obj\Debug\10. N!.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\10. N!\obj\Debug\_10.N_.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\10. N!\obj\Debug\_10.N_.pdb

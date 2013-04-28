@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\7. Text-Files\Text-Files\12. Words listed\bin\Debug\_12.Words_listed.exe.config
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\7. Text-Files\Text-Files\12. Words listed\bin\Debug\_12.Words_listed.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\7. Text-Files\Text-Files\12. Words listed\bin\Debug\_12.Words_listed.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\7. Text-Files\Text-Files\12. Words listed\obj\Debug\_12.Words_listed.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\7. Text-Files\Text-Files\12. Words listed\obj\Debug\_12.Words_listed.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\7. Text-Files\Text-Files\12. Words listed\obj\Debug\12. Words listed.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\7. Text-Files\Text-Files\4. Compares\bin\Debug\_4.Compares.exe.config
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\7. Text-Files\Text-Files\4. Compares\bin\Debug\_4.Compares.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\7. Text-Files\Text-Files\4. Compares\bin\Debug\_4.Compares.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\7. Text-Files\Text-Files\4. Compares\obj\Debug\4. Compares.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\7. Text-Files\Text-Files\4. Compares\obj\Debug\_4.Compares.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\7. Text-Files\Text-Files\4. Compares\obj\Debug\_4.Compares.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\7. Encodes and decodes\bin\Debug\_7.Encodes_and_decodes.exe.config
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\7. Encodes and decodes\bin\Debug\_7.Encodes_and_decodes.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\7. Encodes and decodes\bin\Debug\_7.Encodes_and_decodes.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\7. Encodes and decodes\obj\Debug\7. Encodes and decodes.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\7. Encodes and decodes\obj\Debug\_7.Encodes_and_decodes.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\7. Encodes and decodes\obj\Debug\_7.Encodes_and_decodes.pdb

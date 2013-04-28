@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\07. Common-Type-System\Homework\3. BitArray64\bin\Debug\_3.BitArray64.exe.config
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\07. Common-Type-System\Homework\3. BitArray64\obj\Debug\3. BitArray64.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\07. Common-Type-System\Homework\3. BitArray64\bin\Debug\_3.BitArray64.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\07. Common-Type-System\Homework\3. BitArray64\bin\Debug\_3.BitArray64.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\07. Common-Type-System\Homework\3. BitArray64\obj\Debug\_3.BitArray64.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\07. Common-Type-System\Homework\3. BitArray64\obj\Debug\_3.BitArray64.pdb

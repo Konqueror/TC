@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\07. Common-Type-System\Homework\4.  Tree\bin\Debug\_4.Tree.exe.config
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\07. Common-Type-System\Homework\4.  Tree\bin\Debug\_4.Tree.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\07. Common-Type-System\Homework\4.  Tree\bin\Debug\_4.Tree.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\07. Common-Type-System\Homework\4.  Tree\obj\Debug\4.  Tree.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\07. Common-Type-System\Homework\4.  Tree\obj\Debug\_4.Tree.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\07. Common-Type-System\Homework\4.  Tree\obj\Debug\_4.Tree.pdb

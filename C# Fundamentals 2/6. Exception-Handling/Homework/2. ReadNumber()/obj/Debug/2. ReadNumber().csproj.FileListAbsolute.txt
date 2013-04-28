@@ -1,0 +1,5 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\6. Exception-Handling\New folder\1. Square root\2. ReadNumber()\bin\Debug\_2.ReadNumber__.exe.config
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\6. Exception-Handling\New folder\1. Square root\2. ReadNumber()\bin\Debug\_2.ReadNumber__.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\6. Exception-Handling\New folder\1. Square root\2. ReadNumber()\bin\Debug\_2.ReadNumber__.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\6. Exception-Handling\New folder\1. Square root\2. ReadNumber()\obj\Debug\_2.ReadNumber__.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\6. Exception-Handling\New folder\1. Square root\2. ReadNumber()\obj\Debug\_2.ReadNumber__.pdb

@@ -1,0 +1,5 @@
+C:\Homework\11. Version\bin\Debug\_11.Version.exe.config
+C:\Homework\11. Version\bin\Debug\_11.Version.exe
+C:\Homework\11. Version\bin\Debug\_11.Version.pdb
+C:\Homework\11. Version\obj\Debug\_11.Version.exe
+C:\Homework\11. Version\obj\Debug\_11.Version.pdb

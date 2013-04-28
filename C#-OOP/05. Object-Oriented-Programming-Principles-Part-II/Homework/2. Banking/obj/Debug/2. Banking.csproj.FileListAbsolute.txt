@@ -1,0 +1,5 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\05. Object-Oriented-Programming-Principles-Part-II\Homework\2. Banking\bin\Debug\_2.Banking.exe.config
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\05. Object-Oriented-Programming-Principles-Part-II\Homework\2. Banking\bin\Debug\_2.Banking.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\05. Object-Oriented-Programming-Principles-Part-II\Homework\2. Banking\bin\Debug\_2.Banking.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\05. Object-Oriented-Programming-Principles-Part-II\Homework\2. Banking\obj\Debug\_2.Banking.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\05. Object-Oriented-Programming-Principles-Part-II\Homework\2. Banking\obj\Debug\_2.Banking.pdb

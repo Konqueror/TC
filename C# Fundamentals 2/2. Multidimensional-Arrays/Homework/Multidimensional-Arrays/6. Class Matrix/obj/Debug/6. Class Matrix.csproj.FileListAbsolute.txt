@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\2. Multidimensional-Arrays\Homework\Multidimensional-Arrays\6. Class Matrix\bin\Debug\_6.Class_Matrix.exe.config
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\2. Multidimensional-Arrays\Homework\Multidimensional-Arrays\6. Class Matrix\bin\Debug\_6.Class_Matrix.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\2. Multidimensional-Arrays\Homework\Multidimensional-Arrays\6. Class Matrix\bin\Debug\_6.Class_Matrix.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\2. Multidimensional-Arrays\Homework\Multidimensional-Arrays\6. Class Matrix\obj\Debug\_6.Class_Matrix.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\2. Multidimensional-Arrays\Homework\Multidimensional-Arrays\6. Class Matrix\obj\Debug\_6.Class_Matrix.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\2. Multidimensional-Arrays\Homework\Multidimensional-Arrays\6. Class Matrix\obj\Debug\6. Class Matrix.csprojResolveAssemblyReference.cache

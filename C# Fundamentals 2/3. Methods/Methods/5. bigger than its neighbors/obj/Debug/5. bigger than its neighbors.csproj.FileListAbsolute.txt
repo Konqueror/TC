@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\5. bigger than its neighbors\bin\Debug\_5.bigger_than_its_neighbors.exe.config
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\5. bigger than its neighbors\bin\Debug\_5.bigger_than_its_neighbors.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\5. bigger than its neighbors\bin\Debug\_5.bigger_than_its_neighbors.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\5. bigger than its neighbors\obj\Debug\5. bigger than its neighbors.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\5. bigger than its neighbors\obj\Debug\_5.bigger_than_its_neighbors.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\5. bigger than its neighbors\obj\Debug\_5.bigger_than_its_neighbors.pdb

@@ -1,0 +1,6 @@
+nav ul li > ul{
+	display: none;
+}
+ul{
+  list-style-image: url("blue-arrow.png");
+}

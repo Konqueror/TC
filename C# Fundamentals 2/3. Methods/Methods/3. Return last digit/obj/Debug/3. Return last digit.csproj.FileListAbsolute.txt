@@ -1,0 +1,5 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\3. Return last digit\bin\Debug\_3.Return_last_digit.exe.config
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\3. Return last digit\bin\Debug\_3.Return_last_digit.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\3. Return last digit\bin\Debug\_3.Return_last_digit.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\3. Return last digit\obj\Debug\_3.Return_last_digit.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\3. Return last digit\obj\Debug\_3.Return_last_digit.pdb

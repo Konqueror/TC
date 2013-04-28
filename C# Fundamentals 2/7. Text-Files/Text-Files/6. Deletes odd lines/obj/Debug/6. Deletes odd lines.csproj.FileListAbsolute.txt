@@ -1,0 +1,1 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\7. Text-Files\Text-Files\6. Deletes odd lines\bin\Debug\_6.Deletes_odd_lines.exe.config

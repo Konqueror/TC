@@ -1,0 +1,6 @@
+C:\Homework\Point3D\bin\Debug\Point3D.exe.config
+C:\Homework\Point3D\obj\Debug\Point3D.csprojResolveAssemblyReference.cache
+C:\Homework\Point3D\bin\Debug\Point3D.exe
+C:\Homework\Point3D\bin\Debug\Point3D.pdb
+C:\Homework\Point3D\obj\Debug\Point3D.exe
+C:\Homework\Point3D\obj\Debug\Point3D.pdb

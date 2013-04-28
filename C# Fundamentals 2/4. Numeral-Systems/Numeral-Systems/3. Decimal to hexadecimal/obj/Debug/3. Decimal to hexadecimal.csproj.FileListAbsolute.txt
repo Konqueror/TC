@@ -1,0 +1,5 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\4. Numeral-Systems\Numeral-Systems\3. Decimal to hexadecimal\bin\Debug\_3.Decimal_to_hexadecimal.exe.config
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\4. Numeral-Systems\Numeral-Systems\3. Decimal to hexadecimal\bin\Debug\_3.Decimal_to_hexadecimal.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\4. Numeral-Systems\Numeral-Systems\3. Decimal to hexadecimal\bin\Debug\_3.Decimal_to_hexadecimal.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\4. Numeral-Systems\Numeral-Systems\3. Decimal to hexadecimal\obj\Debug\_3.Decimal_to_hexadecimal.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\4. Numeral-Systems\Numeral-Systems\3. Decimal to hexadecimal\obj\Debug\_3.Decimal_to_hexadecimal.pdb

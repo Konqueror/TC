@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\6. Maximum 20 characters\bin\Debug\_6.Maximum_20_characters.exe.config
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\6. Maximum 20 characters\bin\Debug\_6.Maximum_20_characters.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\6. Maximum 20 characters\bin\Debug\_6.Maximum_20_characters.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\6. Maximum 20 characters\obj\Debug\6. Maximum 20 characters.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\6. Maximum 20 characters\obj\Debug\_6.Maximum_20_characters.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\6. Maximum 20 characters\obj\Debug\_6.Maximum_20_characters.pdb

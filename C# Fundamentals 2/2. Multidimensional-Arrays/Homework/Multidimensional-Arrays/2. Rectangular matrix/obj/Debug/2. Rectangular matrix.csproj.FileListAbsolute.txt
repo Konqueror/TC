@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\2. Multidimensional-Arrays\Homework\Multidimensional-Arrays\2. Rectangular matrix\bin\Debug\_2.Rectangular_matrix.exe.config
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\2. Multidimensional-Arrays\Homework\Multidimensional-Arrays\2. Rectangular matrix\bin\Debug\_2.Rectangular_matrix.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\2. Multidimensional-Arrays\Homework\Multidimensional-Arrays\2. Rectangular matrix\bin\Debug\_2.Rectangular_matrix.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\2. Multidimensional-Arrays\Homework\Multidimensional-Arrays\2. Rectangular matrix\obj\Debug\_2.Rectangular_matrix.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\2. Multidimensional-Arrays\Homework\Multidimensional-Arrays\2. Rectangular matrix\obj\Debug\_2.Rectangular_matrix.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\2. Multidimensional-Arrays\Homework\Multidimensional-Arrays\2. Rectangular matrix\obj\Debug\2. Rectangular matrix.csprojResolveAssemblyReference.cache

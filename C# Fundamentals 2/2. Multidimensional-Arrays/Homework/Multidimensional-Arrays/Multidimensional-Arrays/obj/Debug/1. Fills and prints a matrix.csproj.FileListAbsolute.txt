@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\2. Multidimensional-Arrays\Homework\Multidimensional-Arrays\Multidimensional-Arrays\bin\Debug\Multidimensional-Arrays.exe.config
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\2. Multidimensional-Arrays\Homework\Multidimensional-Arrays\Multidimensional-Arrays\bin\Debug\Multidimensional-Arrays.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\2. Multidimensional-Arrays\Homework\Multidimensional-Arrays\Multidimensional-Arrays\bin\Debug\Multidimensional-Arrays.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\2. Multidimensional-Arrays\Homework\Multidimensional-Arrays\Multidimensional-Arrays\obj\Debug\1. Fills and prints a matrix.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\2. Multidimensional-Arrays\Homework\Multidimensional-Arrays\Multidimensional-Arrays\obj\Debug\Multidimensional-Arrays.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\2. Multidimensional-Arrays\Homework\Multidimensional-Arrays\Multidimensional-Arrays\obj\Debug\Multidimensional-Arrays.pdb

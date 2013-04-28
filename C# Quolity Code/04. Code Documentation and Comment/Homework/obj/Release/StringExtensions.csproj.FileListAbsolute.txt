@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\04. Code Documentation and Comment\Homework\bin\Release\StringExtensions.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\04. Code Documentation and Comment\Homework\bin\Release\StringExtensions.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\04. Code Documentation and Comment\Homework\obj\Release\StringExtensions.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\04. Code Documentation and Comment\Homework\obj\Release\StringExtensions.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\04. Code Documentation and Comment\Homework\obj\Release\StringExtensions.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\04. Code Documentation and Comment\Homework\bin\Release\StringExtensions.XML

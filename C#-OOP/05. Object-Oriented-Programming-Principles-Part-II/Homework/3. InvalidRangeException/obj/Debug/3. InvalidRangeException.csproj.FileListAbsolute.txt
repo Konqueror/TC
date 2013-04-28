@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\05. Object-Oriented-Programming-Principles-Part-II\Homework\3. InvalidRangeException\bin\Debug\_3.InvalidRangeException.exe.config
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\05. Object-Oriented-Programming-Principles-Part-II\Homework\3. InvalidRangeException\bin\Debug\_3.InvalidRangeException.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\05. Object-Oriented-Programming-Principles-Part-II\Homework\3. InvalidRangeException\bin\Debug\_3.InvalidRangeException.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\05. Object-Oriented-Programming-Principles-Part-II\Homework\3. InvalidRangeException\obj\Debug\_3.InvalidRangeException.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\05. Object-Oriented-Programming-Principles-Part-II\Homework\3. InvalidRangeException\obj\Debug\_3.InvalidRangeException.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\05. Object-Oriented-Programming-Principles-Part-II\Homework\3. InvalidRangeException\obj\Debug\3. InvalidRangeException.csprojResolveAssemblyReference.cache

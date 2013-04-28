@@ -1,0 +1,1 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\07. Common-Type-System\Homework\4.  Tree\bin\Release\_4.Tree.exe.config

@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\5. Using-Classes-and-Objects\Classes-and-Objects\5. Workdays\bin\Debug\_5.Workdays.exe.config
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\5. Using-Classes-and-Objects\Classes-and-Objects\5. Workdays\bin\Debug\_5.Workdays.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\5. Using-Classes-and-Objects\Classes-and-Objects\5. Workdays\bin\Debug\_5.Workdays.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\5. Using-Classes-and-Objects\Classes-and-Objects\5. Workdays\obj\Debug\_5.Workdays.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\5. Using-Classes-and-Objects\Classes-and-Objects\5. Workdays\obj\Debug\_5.Workdays.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\5. Using-Classes-and-Objects\Classes-and-Objects\5. Workdays\obj\Debug\5. Workdays.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\6. Exception-Handling\New folder\1. Square root\1. Square root\bin\Debug\_1.Square_root.exe.config
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\6. Exception-Handling\New folder\1. Square root\1. Square root\bin\Debug\_1.Square_root.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\6. Exception-Handling\New folder\1. Square root\1. Square root\bin\Debug\_1.Square_root.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\6. Exception-Handling\New folder\1. Square root\1. Square root\obj\Debug\1. Square root.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\6. Exception-Handling\New folder\1. Square root\1. Square root\obj\Debug\_1.Square_root.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\6. Exception-Handling\New folder\1. Square root\1. Square root\obj\Debug\_1.Square_root.pdb

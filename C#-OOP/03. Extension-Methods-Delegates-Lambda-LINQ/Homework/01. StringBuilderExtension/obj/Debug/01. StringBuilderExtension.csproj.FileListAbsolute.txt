@@ -1,0 +1,9 @@
+C:\Telerik-Courses\C#_OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\01. StringBuilderExtension\bin\Debug\_01.StringBuilderExtension.exe.config
+C:\Telerik-Courses\C#_OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\01. StringBuilderExtension\obj\Debug\01. StringBuilderExtension.csprojResolveAssemblyReference.cache
+C:\Telerik-Courses\C#_OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\01. StringBuilderExtension\bin\Debug\_01.StringBuilderExtension.exe
+C:\Telerik-Courses\C#_OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\01. StringBuilderExtension\bin\Debug\_01.StringBuilderExtension.pdb
+C:\Telerik-Courses\C#_OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\01. StringBuilderExtension\obj\Debug\_01.StringBuilderExtension.exe
+C:\Telerik-Courses\C#_OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\01. StringBuilderExtension\obj\Debug\_01.StringBuilderExtension.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\01. StringBuilderExtension\bin\Debug\_01.StringBuilderExtension.exe.config
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\01. StringBuilderExtension\obj\Debug\_01.StringBuilderExtension.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Homework\01. StringBuilderExtension\obj\Debug\_01.StringBuilderExtension.pdb

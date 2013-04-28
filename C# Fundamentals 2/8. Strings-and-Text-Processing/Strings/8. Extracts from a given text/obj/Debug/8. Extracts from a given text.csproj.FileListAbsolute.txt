@@ -1,0 +1,5 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\8. Extracts from a given text\bin\Debug\_8.Extracts_from_a_given_text.exe.config
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\8. Extracts from a given text\bin\Debug\_8.Extracts_from_a_given_text.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\8. Extracts from a given text\bin\Debug\_8.Extracts_from_a_given_text.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\8. Extracts from a given text\obj\Debug\_8.Extracts_from_a_given_text.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\8. Extracts from a given text\obj\Debug\_8.Extracts_from_a_given_text.pdb

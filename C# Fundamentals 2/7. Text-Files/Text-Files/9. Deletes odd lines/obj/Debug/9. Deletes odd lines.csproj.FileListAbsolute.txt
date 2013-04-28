@@ -1,0 +1,5 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\7. Text-Files\Text-Files\9. Deletes odd lines\bin\Debug\_9.Deletes_odd_lines.exe.config
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\7. Text-Files\Text-Files\9. Deletes odd lines\bin\Debug\_9.Deletes_odd_lines.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\7. Text-Files\Text-Files\9. Deletes odd lines\bin\Debug\_9.Deletes_odd_lines.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\7. Text-Files\Text-Files\9. Deletes odd lines\obj\Debug\_9.Deletes_odd_lines.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\7. Text-Files\Text-Files\9. Deletes odd lines\obj\Debug\_9.Deletes_odd_lines.pdb

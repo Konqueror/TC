@@ -1,0 +1,2 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\02. Code Formatting\CodeFormating\Homework\bin\Debug\Homework.exe.config
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\02. Code Formatting\CodeFormating\Homework\obj\Debug\Homework.csprojResolveAssemblyReference.cache

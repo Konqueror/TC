@@ -1,0 +1,5 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\4. Appears in array\bin\Debug\_4.Appears_in_array.exe.config
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\4. Appears in array\bin\Debug\_4.Appears_in_array.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\4. Appears in array\bin\Debug\_4.Appears_in_array.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\4. Appears in array\obj\Debug\_4.Appears_in_array.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\4. Appears in array\obj\Debug\_4.Appears_in_array.pdb

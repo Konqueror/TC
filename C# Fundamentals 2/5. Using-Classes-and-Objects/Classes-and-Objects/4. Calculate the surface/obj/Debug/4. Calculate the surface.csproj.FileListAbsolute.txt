@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\5. Using-Classes-and-Objects\Classes-and-Objects\4. Calculate the surface\bin\Debug\_4.Calculate_the_surface.exe.config
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\5. Using-Classes-and-Objects\Classes-and-Objects\4. Calculate the surface\bin\Debug\_4.Calculate_the_surface.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\5. Using-Classes-and-Objects\Classes-and-Objects\4. Calculate the surface\bin\Debug\_4.Calculate_the_surface.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\5. Using-Classes-and-Objects\Classes-and-Objects\4. Calculate the surface\obj\Debug\_4.Calculate_the_surface.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\5. Using-Classes-and-Objects\Classes-and-Objects\4. Calculate the surface\obj\Debug\_4.Calculate_the_surface.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\5. Using-Classes-and-Objects\Classes-and-Objects\4. Calculate the surface\obj\Debug\4. Calculate the surface.csprojResolveAssemblyReference.cache

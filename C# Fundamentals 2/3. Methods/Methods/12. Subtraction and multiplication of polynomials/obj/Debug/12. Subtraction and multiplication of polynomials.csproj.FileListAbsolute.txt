@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\12. Subtraction and multiplication of polynomials\bin\Debug\_12.Subtraction_and_multiplication_of_polynomials.exe.config
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\12. Subtraction and multiplication of polynomials\bin\Debug\_12.Subtraction_and_multiplication_of_polynomials.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\12. Subtraction and multiplication of polynomials\bin\Debug\_12.Subtraction_and_multiplication_of_polynomials.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\12. Subtraction and multiplication of polynomials\obj\Debug\12. Subtraction and multiplication of polynomials.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\12. Subtraction and multiplication of polynomials\obj\Debug\_12.Subtraction_and_multiplication_of_polynomials.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\12. Subtraction and multiplication of polynomials\obj\Debug\_12.Subtraction_and_multiplication_of_polynomials.pdb

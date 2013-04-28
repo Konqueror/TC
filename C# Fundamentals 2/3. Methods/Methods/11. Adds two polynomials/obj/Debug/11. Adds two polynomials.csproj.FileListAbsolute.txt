@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\11. Adds two polynomials\bin\Debug\_11.Adds_two_polynomials.exe.config
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\11. Adds two polynomials\obj\Debug\11. Adds two polynomials.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\11. Adds two polynomials\bin\Debug\_11.Adds_two_polynomials.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\11. Adds two polynomials\bin\Debug\_11.Adds_two_polynomials.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\11. Adds two polynomials\obj\Debug\_11.Adds_two_polynomials.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\11. Adds two polynomials\obj\Debug\_11.Adds_two_polynomials.pdb

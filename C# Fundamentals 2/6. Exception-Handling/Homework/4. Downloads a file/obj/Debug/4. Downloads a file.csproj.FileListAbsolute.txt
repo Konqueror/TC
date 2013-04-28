@@ -1,0 +1,5 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\6. Exception-Handling\New folder\1. Square root\4. Downloads a file\bin\Debug\_4.Downloads_a_file.exe.config
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\6. Exception-Handling\New folder\1. Square root\4. Downloads a file\bin\Debug\_4.Downloads_a_file.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\6. Exception-Handling\New folder\1. Square root\4. Downloads a file\bin\Debug\_4.Downloads_a_file.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\6. Exception-Handling\New folder\1. Square root\4. Downloads a file\obj\Debug\_4.Downloads_a_file.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\6. Exception-Handling\New folder\1. Square root\4. Downloads a file\obj\Debug\_4.Downloads_a_file.pdb

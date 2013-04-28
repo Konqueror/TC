@@ -1,0 +1,3 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\GetMax()\bin\Debug\GetMax().exe.config
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\GetMax()\obj\Debug\GetMax().exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\3. Methods\Methods\GetMax()\obj\Debug\GetMax().pdb

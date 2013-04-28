@@ -1,0 +1,5 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\9. Replaces the forbidden words\bin\Debug\_9.Replaces_the_forbidden_words.exe.config
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\9. Replaces the forbidden words\bin\Debug\_9.Replaces_the_forbidden_words.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\9. Replaces the forbidden words\bin\Debug\_9.Replaces_the_forbidden_words.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\9. Replaces the forbidden words\obj\Debug\_9.Replaces_the_forbidden_words.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\8. Strings-and-Text-Processing\Strings\9. Replaces the forbidden words\obj\Debug\_9.Replaces_the_forbidden_words.pdb

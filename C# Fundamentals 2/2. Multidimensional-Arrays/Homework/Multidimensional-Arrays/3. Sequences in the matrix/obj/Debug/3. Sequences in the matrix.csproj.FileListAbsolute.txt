@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\2. Multidimensional-Arrays\Homework\Multidimensional-Arrays\3. Sequences in the matrix\bin\Debug\_3.Sequences_in_the_matrix.exe.config
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\2. Multidimensional-Arrays\Homework\Multidimensional-Arrays\3. Sequences in the matrix\bin\Debug\_3.Sequences_in_the_matrix.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\2. Multidimensional-Arrays\Homework\Multidimensional-Arrays\3. Sequences in the matrix\bin\Debug\_3.Sequences_in_the_matrix.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\2. Multidimensional-Arrays\Homework\Multidimensional-Arrays\3. Sequences in the matrix\obj\Debug\3. Sequences in the matrix.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\2. Multidimensional-Arrays\Homework\Multidimensional-Arrays\3. Sequences in the matrix\obj\Debug\_3.Sequences_in_the_matrix.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\2. Multidimensional-Arrays\Homework\Multidimensional-Arrays\3. Sequences in the matrix\obj\Debug\_3.Sequences_in_the_matrix.pdb

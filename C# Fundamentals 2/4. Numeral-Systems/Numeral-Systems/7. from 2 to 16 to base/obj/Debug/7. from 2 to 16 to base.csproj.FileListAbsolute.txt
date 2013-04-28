@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\4. Numeral-Systems\Numeral-Systems\7. from 2 to 16 to base\bin\Debug\_7.from_2_to_16_to_base.exe.config
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\4. Numeral-Systems\Numeral-Systems\7. from 2 to 16 to base\obj\Debug\7. from 2 to 16 to base.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\4. Numeral-Systems\Numeral-Systems\7. from 2 to 16 to base\bin\Debug\_7.from_2_to_16_to_base.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\4. Numeral-Systems\Numeral-Systems\7. from 2 to 16 to base\bin\Debug\_7.from_2_to_16_to_base.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\4. Numeral-Systems\Numeral-Systems\7. from 2 to 16 to base\obj\Debug\_7.from_2_to_16_to_base.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\4. Numeral-Systems\Numeral-Systems\7. from 2 to 16 to base\obj\Debug\_7.from_2_to_16_to_base.pdb

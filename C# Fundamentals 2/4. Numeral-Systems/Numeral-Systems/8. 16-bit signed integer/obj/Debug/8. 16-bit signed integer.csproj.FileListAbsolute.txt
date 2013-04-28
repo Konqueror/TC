@@ -1,0 +1,5 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\4. Numeral-Systems\Numeral-Systems\8. 16-bit signed integer\bin\Debug\8. 16-bit signed integer.exe.config
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\4. Numeral-Systems\Numeral-Systems\8. 16-bit signed integer\bin\Debug\8. 16-bit signed integer.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\4. Numeral-Systems\Numeral-Systems\8. 16-bit signed integer\bin\Debug\8. 16-bit signed integer.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\4. Numeral-Systems\Numeral-Systems\8. 16-bit signed integer\obj\Debug\8. 16-bit signed integer.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\4. Numeral-Systems\Numeral-Systems\8. 16-bit signed integer\obj\Debug\8. 16-bit signed integer.pdb

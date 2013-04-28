@@ -1,0 +1,5 @@
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\4. Numeral-Systems\Numeral-Systems\2. Binary to decimal\bin\Debug\_2.Binary_to_decimal.exe.config
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\4. Numeral-Systems\Numeral-Systems\2. Binary to decimal\bin\Debug\_2.Binary_to_decimal.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\4. Numeral-Systems\Numeral-Systems\2. Binary to decimal\bin\Debug\_2.Binary_to_decimal.pdb
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\4. Numeral-Systems\Numeral-Systems\2. Binary to decimal\obj\Debug\_2.Binary_to_decimal.exe
+C:\Users\Ivaylo\Google Диск\Telerik\C#\C# Fundamentals 2\4. Numeral-Systems\Numeral-Systems\2. Binary to decimal\obj\Debug\_2.Binary_to_decimal.pdb

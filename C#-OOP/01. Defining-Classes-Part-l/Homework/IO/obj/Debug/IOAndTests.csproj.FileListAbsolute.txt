@@ -1,0 +1,1 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C#-OOP\01. Defining-Classes-Part-l\Homework\IO\bin\Debug\IO.exe.config
