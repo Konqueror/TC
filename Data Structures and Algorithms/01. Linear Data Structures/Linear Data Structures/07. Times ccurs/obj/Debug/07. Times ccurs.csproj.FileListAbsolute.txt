@@ -1,0 +1,5 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\01. Linear Data Structures\Linear Data Structures\07. Times ccurs\bin\Debug\_07.Times_ccurs.exe.config
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\01. Linear Data Structures\Linear Data Structures\07. Times ccurs\bin\Debug\_07.Times_ccurs.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\01. Linear Data Structures\Linear Data Structures\07. Times ccurs\bin\Debug\_07.Times_ccurs.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\01. Linear Data Structures\Linear Data Structures\07. Times ccurs\obj\Debug\_07.Times_ccurs.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\01. Linear Data Structures\Linear Data Structures\07. Times ccurs\obj\Debug\_07.Times_ccurs.pdb

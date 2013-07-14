@@ -1,0 +1,14 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\10. Code Tuning\Homework\bin\Debug\SolarSystem.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\10. Code Tuning\Homework\bin\Debug\SolarSystem.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\10. Code Tuning\Homework\obj\Debug\SolarSystem.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\10. Code Tuning\Homework\obj\Debug\MainWindow.g.cs
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\10. Code Tuning\Homework\obj\Debug\App.g.cs
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\10. Code Tuning\Homework\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\10. Code Tuning\Homework\obj\Debug\SolarSystem_MarkupCompile.cache
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\10. Code Tuning\Homework\obj\Debug\SolarSystem_MarkupCompile.lref
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\10. Code Tuning\Homework\obj\Debug\MainWindow.baml
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\10. Code Tuning\Homework\obj\Debug\SolarSystem.g.resources
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\10. Code Tuning\Homework\obj\Debug\SolarSystem.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\10. Code Tuning\Homework\obj\Debug\SolarSystem.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\10. Code Tuning\Homework\SolarSystem\obj\Debug\SolarSystem.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\10. Code Tuning\Homework\SolarSystem\obj\Debug\SolarSystem.pdb

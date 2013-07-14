@@ -1,0 +1,32 @@
+<!doctype html>
+<head>
+	<meta charset="utf-8" />
+	<title>Task 1 -  DOM Module</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<script src="vehicles.js"></script>
+</head>
+<body>
+	<script>
+	var car = new LandVehicle(new Wheel(10), new Wheel(10), new Wheel(10), new Wheel(10));
+	console.log(car);
+	car.accelerate();
+
+	var airplane = new AirVehicle(new PropellingNozzle(20, false));
+	console.log(airplane);
+	airplane.accelerate();
+
+	var boat = new WaterVehicles(new Propeller(4, 'clockwise'));
+	console.log(boat);
+	boat.accelerate();
+	boat.setPropellersDirection('counter-clockwise');
+	boat.accelerate();
+
+	var amphibia = new AmphibiousVehicle(
+		'land', 
+		new Wheel(10), new Wheel(10), new Wheel(10), new Wheel(10),
+		new Propeller(4, 'clockwise'));
+		
+	console.log(amphibia);
+	amphibia.accelerate();
+	</script>
+</body>

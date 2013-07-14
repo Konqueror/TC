@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\01. Linear Data Structures\Linear Data Structures\10. The shortest steps\bin\Debug\_10.The_shortest_steps.exe.config
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\01. Linear Data Structures\Linear Data Structures\10. The shortest steps\bin\Debug\_10.The_shortest_steps.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\01. Linear Data Structures\Linear Data Structures\10. The shortest steps\bin\Debug\_10.The_shortest_steps.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\01. Linear Data Structures\Linear Data Structures\10. The shortest steps\obj\Debug\10. The shortest steps.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\01. Linear Data Structures\Linear Data Structures\10. The shortest steps\obj\Debug\_10.The_shortest_steps.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\01. Linear Data Structures\Linear Data Structures\10. The shortest steps\obj\Debug\_10.The_shortest_steps.pdb

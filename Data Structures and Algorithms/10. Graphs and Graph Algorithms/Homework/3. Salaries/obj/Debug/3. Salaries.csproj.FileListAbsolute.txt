@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\10. Graphs and Graph Algorithms\Homework\3. Salaries\bin\Debug\_3.Salaries.exe.config
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\10. Graphs and Graph Algorithms\Homework\3. Salaries\bin\Debug\_3.Salaries.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\10. Graphs and Graph Algorithms\Homework\3. Salaries\bin\Debug\_3.Salaries.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\10. Graphs and Graph Algorithms\Homework\3. Salaries\obj\Debug\3. Salaries.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\10. Graphs and Graph Algorithms\Homework\3. Salaries\obj\Debug\_3.Salaries.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\10. Graphs and Graph Algorithms\Homework\3. Salaries\obj\Debug\_3.Salaries.pdb

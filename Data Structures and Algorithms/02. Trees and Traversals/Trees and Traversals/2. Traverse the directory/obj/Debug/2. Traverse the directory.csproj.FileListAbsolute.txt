@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Trees and Traversals\2. Traverse the directory\bin\Debug\_2.Traverse_the_directory.exe.config
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Trees and Traversals\2. Traverse the directory\obj\Debug\2. Traverse the directory.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Trees and Traversals\2. Traverse the directory\bin\Debug\_2.Traverse_the_directory.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Trees and Traversals\2. Traverse the directory\bin\Debug\_2.Traverse_the_directory.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Trees and Traversals\2. Traverse the directory\obj\Debug\_2.Traverse_the_directory.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Trees and Traversals\2. Traverse the directory\obj\Debug\_2.Traverse_the_directory.pdb

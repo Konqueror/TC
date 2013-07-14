@@ -1,0 +1,8 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Hashes and Sets\05. HashedSet\bin\Debug\_05.HashedSet.exe.config
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Hashes and Sets\05. HashedSet\bin\Debug\_05.HashedSet.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Hashes and Sets\05. HashedSet\bin\Debug\_05.HashedSet.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Hashes and Sets\05. HashedSet\bin\Debug\_04.Hash_table.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Hashes and Sets\05. HashedSet\bin\Debug\_04.Hash_table.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Hashes and Sets\05. HashedSet\obj\Debug\05. HashedSet.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Hashes and Sets\05. HashedSet\obj\Debug\_05.HashedSet.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Hashes and Sets\05. HashedSet\obj\Debug\_05.HashedSet.pdb

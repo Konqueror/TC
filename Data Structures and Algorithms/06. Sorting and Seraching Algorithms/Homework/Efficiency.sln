@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting", "SortingHomework", "{24F7D52D-4EF3-427E-AC1D-C342DEE6BA56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24F7D52D-4EF3-427E-AC1D-C342DEE6BA56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24F7D52D-4EF3-427E-AC1D-C342DEE6BA56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24F7D52D-4EF3-427E-AC1D-C342DEE6BA56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24F7D52D-4EF3-427E-AC1D-C342DEE6BA56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{532C5E74-4CCF-4FEC-88AC-72C71E7F43E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{532C5E74-4CCF-4FEC-88AC-72C71E7F43E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{532C5E74-4CCF-4FEC-88AC-72C71E7F43E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{532C5E74-4CCF-4FEC-88AC-72C71E7F43E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{496085B1-D2E8-48CF-B137-7D1331B0F7F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{496085B1-D2E8-48CF-B137-7D1331B0F7F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{496085B1-D2E8-48CF-B137-7D1331B0F7F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{496085B1-D2E8-48CF-B137-7D1331B0F7F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

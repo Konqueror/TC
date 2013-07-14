@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\09. Dynamic Programming\Homework\Homework\obj\Debug\1. Knapsack Problem.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\09. Dynamic Programming\Homework\Homework\bin\Debug\Homework.exe.config
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\09. Dynamic Programming\Homework\Homework\bin\Debug\Homework.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\09. Dynamic Programming\Homework\Homework\bin\Debug\Homework.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\09. Dynamic Programming\Homework\Homework\obj\Debug\Homework.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\09. Dynamic Programming\Homework\Homework\obj\Debug\Homework.pdb

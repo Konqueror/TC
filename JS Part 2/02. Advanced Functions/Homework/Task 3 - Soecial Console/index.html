@@ -1,0 +1,21 @@
+<!doctype html>
+<head>
+	<meta charset="utf-8" />
+	<title>Task 2 -  Moving Divs</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	03. Create a module to work with the console object. Implement functionality for:
+	<ul>
+		<li>Writing a line to the console</li>
+		<li>Writing a line to the console using a formatt</li>
+		<li>Writing to the console should call toString() to each element</li>
+		<li>Writing errors and warnings to the console with and without format</li>
+	</ul>
+	<button onclick="specialConsole.writeLine('Message: hello')">writeLine("Message: hello")</button><br>
+	<button onclick="specialConsole.writeLine('Message: {0}', 'hello')">writeLine("Message: {0}", "hello")</button><br>
+	<button onclick="specialConsole.writeError('Error: {0}', 'Something happened');">writeError("Error: {0}", "Something happened");</button><br>
+	<button onclick="specialConsole.writeWarning('Warning: {0}', 'A warning')">writeWarning("Warning: {0}", "A warning")</button><br>
+	<div id="console"> </div>
+	<script src="specialConsole.js"></script>
+</body>

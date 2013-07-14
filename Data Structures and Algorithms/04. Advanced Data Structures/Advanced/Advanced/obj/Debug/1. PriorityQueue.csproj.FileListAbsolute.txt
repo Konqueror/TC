@@ -1,0 +1,3 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\04. Advanced Data Structures\Advanced\Advanced\bin\Debug\Advanced.exe.config
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\04. Advanced Data Structures\Advanced\Advanced\obj\Debug\Advanced.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\04. Advanced Data Structures\Advanced\Advanced\obj\Debug\Advanced.pdb

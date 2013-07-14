@@ -1,0 +1,5 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\01. Linear Data Structures\Linear Data Structures\Linear Data Structures\bin\Debug\Linear Data Structures.exe.config
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\01. Linear Data Structures\Linear Data Structures\Linear Data Structures\obj\Debug\Linear Data Structures.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\01. Linear Data Structures\Linear Data Structures\Linear Data Structures\obj\Debug\Linear Data Structures.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\01. Linear Data Structures\Linear Data Structures\Linear Data Structures\bin\Debug\Linear Data Structures.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\01. Linear Data Structures\Linear Data Structures\Linear Data Structures\bin\Debug\Linear Data Structures.pdb

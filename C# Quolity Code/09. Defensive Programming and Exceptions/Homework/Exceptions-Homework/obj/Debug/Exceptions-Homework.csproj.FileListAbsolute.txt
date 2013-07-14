@@ -1,0 +1,4 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\09. Defensive Programming and Exceptions\Homework\Exceptions-Homework\bin\Debug\Exceptions-Homework.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\09. Defensive Programming and Exceptions\Homework\Exceptions-Homework\bin\Debug\Exceptions-Homework.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\09. Defensive Programming and Exceptions\Homework\Exceptions-Homework\obj\Debug\Exceptions-Homework.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\09. Defensive Programming and Exceptions\Homework\Exceptions-Homework\obj\Debug\Exceptions-Homework.pdb

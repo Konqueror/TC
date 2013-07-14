@@ -1,0 +1,1 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Hashes and Sets\Hashes and Sets\bin\Debug\Hashes and Sets.exe.config

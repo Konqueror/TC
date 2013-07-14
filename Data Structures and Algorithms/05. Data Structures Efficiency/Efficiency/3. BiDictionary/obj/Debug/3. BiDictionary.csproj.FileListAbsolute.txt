@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\05. Data Structures Efficiency\Efficiency\3. BiDictionary\bin\Debug\_3.BiDictionary.exe.config
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\05. Data Structures Efficiency\Efficiency\3. BiDictionary\bin\Debug\_3.BiDictionary.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\05. Data Structures Efficiency\Efficiency\3. BiDictionary\bin\Debug\_3.BiDictionary.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\05. Data Structures Efficiency\Efficiency\3. BiDictionary\obj\Debug\3. BiDictionary.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\05. Data Structures Efficiency\Efficiency\3. BiDictionary\obj\Debug\_3.BiDictionary.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\05. Data Structures Efficiency\Efficiency\3. BiDictionary\obj\Debug\_3.BiDictionary.pdb

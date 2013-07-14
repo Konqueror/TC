@@ -1,0 +1,5 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\12. Test-Driven-Development\Poker\bin\Debug\Poker.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\12. Test-Driven-Development\Poker\bin\Debug\Poker.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\12. Test-Driven-Development\Poker\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\12. Test-Driven-Development\Poker\obj\Debug\Poker.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\12. Test-Driven-Development\Poker\obj\Debug\Poker.pdb

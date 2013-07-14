@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\10. Code Tuning\Homework\MathWithPrimtiveTypes\MathWithPrimtiveTypes\MathWithPrimtiveTypes\bin\Debug\MathWithPrimtiveTypes.exe.config
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\10. Code Tuning\Homework\MathWithPrimtiveTypes\MathWithPrimtiveTypes\MathWithPrimtiveTypes\bin\Debug\MathWithPrimtiveTypes.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\10. Code Tuning\Homework\MathWithPrimtiveTypes\MathWithPrimtiveTypes\MathWithPrimtiveTypes\bin\Debug\MathWithPrimtiveTypes.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\10. Code Tuning\Homework\MathWithPrimtiveTypes\MathWithPrimtiveTypes\MathWithPrimtiveTypes\obj\Debug\MathWithPrimtiveTypes.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\10. Code Tuning\Homework\MathWithPrimtiveTypes\MathWithPrimtiveTypes\MathWithPrimtiveTypes\obj\Debug\MathWithPrimtiveTypes.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\10. Code Tuning\Homework\MathWithPrimtiveTypes\MathWithPrimtiveTypes\MathWithPrimtiveTypes\obj\Debug\MathWithPrimtiveTypes.pdb

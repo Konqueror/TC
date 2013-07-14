@@ -1,0 +1,5 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\11. Unit Testing\School\School\bin\Debug\School.exe.config
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\11. Unit Testing\School\School\bin\Debug\School.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\11. Unit Testing\School\School\bin\Debug\School.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\11. Unit Testing\School\School\obj\Debug\School.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\11. Unit Testing\School\School\obj\Debug\School.pdb

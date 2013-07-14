@@ -1,0 +1,7 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\05. Data Structures Efficiency\Efficiency\2. Articles\bin\Debug\_2.Articles.exe.config
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\05. Data Structures Efficiency\Efficiency\2. Articles\bin\Debug\_2.Articles.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\05. Data Structures Efficiency\Efficiency\2. Articles\bin\Debug\_2.Articles.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\05. Data Structures Efficiency\Efficiency\2. Articles\bin\Debug\PowerCollections.dll
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\05. Data Structures Efficiency\Efficiency\2. Articles\bin\Debug\PowerCollections.xml
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\05. Data Structures Efficiency\Efficiency\2. Articles\obj\Debug\_2.Articles.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\05. Data Structures Efficiency\Efficiency\2. Articles\obj\Debug\_2.Articles.pdb

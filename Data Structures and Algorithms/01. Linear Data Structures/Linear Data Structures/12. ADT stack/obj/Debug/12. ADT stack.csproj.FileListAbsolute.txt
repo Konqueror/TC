@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\01. Linear Data Structures\Linear Data Structures\12. ADT stack\bin\Debug\_12.ADT_stack.exe.config
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\01. Linear Data Structures\Linear Data Structures\12. ADT stack\bin\Debug\_12.ADT_stack.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\01. Linear Data Structures\Linear Data Structures\12. ADT stack\bin\Debug\_12.ADT_stack.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\01. Linear Data Structures\Linear Data Structures\12. ADT stack\obj\Debug\12. ADT stack.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\01. Linear Data Structures\Linear Data Structures\12. ADT stack\obj\Debug\_12.ADT_stack.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\01. Linear Data Structures\Linear Data Structures\12. ADT stack\obj\Debug\_12.ADT_stack.pdb

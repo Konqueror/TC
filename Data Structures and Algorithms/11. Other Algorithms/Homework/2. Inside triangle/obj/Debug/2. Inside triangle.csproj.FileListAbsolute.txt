@@ -1,0 +1,5 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\11. Other Algorithms\Other\2. Inside triangle\bin\Debug\_2.Inside_triangle.exe.config
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\11. Other Algorithms\Other\2. Inside triangle\bin\Debug\_2.Inside_triangle.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\11. Other Algorithms\Other\2. Inside triangle\bin\Debug\_2.Inside_triangle.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\11. Other Algorithms\Other\2. Inside triangle\obj\Debug\_2.Inside_triangle.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\11. Other Algorithms\Other\2. Inside triangle\obj\Debug\_2.Inside_triangle.pdb

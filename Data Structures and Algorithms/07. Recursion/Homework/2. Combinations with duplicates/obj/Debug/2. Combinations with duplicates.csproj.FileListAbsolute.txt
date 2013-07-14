@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\07. Recursion\Homework\2. Combinations with duplicates\bin\Debug\_2.Combinations_with_duplicates.exe.config
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\07. Recursion\Homework\2. Combinations with duplicates\bin\Debug\_2.Combinations_with_duplicates.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\07. Recursion\Homework\2. Combinations with duplicates\bin\Debug\_2.Combinations_with_duplicates.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\07. Recursion\Homework\2. Combinations with duplicates\obj\Debug\_2.Combinations_with_duplicates.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\07. Recursion\Homework\2. Combinations with duplicates\obj\Debug\_2.Combinations_with_duplicates.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\07. Recursion\Homework\2. Combinations with duplicates\obj\Debug\2. Combinations with duplicates.csprojResolveAssemblyReference.cache

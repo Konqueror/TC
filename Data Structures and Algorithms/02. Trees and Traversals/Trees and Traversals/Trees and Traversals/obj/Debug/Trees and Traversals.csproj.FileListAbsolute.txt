@@ -1,0 +1,1 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Trees and Traversals\Trees and Traversals\bin\Debug\Trees and Traversals.exe.config

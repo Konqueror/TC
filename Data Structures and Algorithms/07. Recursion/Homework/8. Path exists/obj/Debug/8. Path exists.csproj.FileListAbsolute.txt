@@ -1,0 +1,1 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\07. Recursion\Homework\8. Path exists\bin\Debug\_8.Path_exists.exe.config

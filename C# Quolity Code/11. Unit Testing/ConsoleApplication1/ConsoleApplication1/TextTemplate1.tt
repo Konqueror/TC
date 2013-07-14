@@ -1,0 +1,19 @@
+﻿<#@ template language="HTML" #>
+<html>
+	<head>
+		<title>Just Title</title>
+	</head>
+	<body>
+	<h1>Make Table Test</h2>
+	<table>
+		<# for (int i = 1; i <= 10; i++)
+		   { #>
+<tr>
+			<td>Key number <#= i #> </td>
+			<td>Value <#= 3 * i #></td>
+		</tr>
+		<# } #>
+	 </table>
+	</body>
+</html>
+

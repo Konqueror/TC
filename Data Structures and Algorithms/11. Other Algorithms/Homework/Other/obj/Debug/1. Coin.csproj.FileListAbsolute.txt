@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\11. Other Algorithms\Other\Other\bin\Debug\Other.exe.config
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\11. Other Algorithms\Other\Other\bin\Debug\Other.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\11. Other Algorithms\Other\Other\bin\Debug\Other.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\11. Other Algorithms\Other\Other\obj\Debug\1. Coin.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\11. Other Algorithms\Other\Other\obj\Debug\Other.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\11. Other Algorithms\Other\Other\obj\Debug\Other.pdb

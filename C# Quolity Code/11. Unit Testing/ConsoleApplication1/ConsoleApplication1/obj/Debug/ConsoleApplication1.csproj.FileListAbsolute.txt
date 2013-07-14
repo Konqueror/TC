@@ -1,0 +1,1 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\11. Unit Testing\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config

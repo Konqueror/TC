@@ -1,0 +1,3 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\07. Recursion\Homework\Homework\bin\Debug\Homework.exe.config
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\07. Recursion\Homework\Homework\obj\Debug\Homework.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\07. Recursion\Homework\Homework\obj\Debug\Homework.pdb

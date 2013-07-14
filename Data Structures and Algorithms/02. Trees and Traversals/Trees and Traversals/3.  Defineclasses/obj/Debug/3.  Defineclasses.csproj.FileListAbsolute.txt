@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Trees and Traversals\3.  Defineclasses\bin\Debug\_3.Defineclasses.exe.config
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Trees and Traversals\3.  Defineclasses\obj\Debug\3.  Defineclasses.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Trees and Traversals\3.  Defineclasses\bin\Debug\_3.Defineclasses.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Trees and Traversals\3.  Defineclasses\bin\Debug\_3.Defineclasses.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Trees and Traversals\3.  Defineclasses\obj\Debug\_3.Defineclasses.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Trees and Traversals\3.  Defineclasses\obj\Debug\_3.Defineclasses.pdb

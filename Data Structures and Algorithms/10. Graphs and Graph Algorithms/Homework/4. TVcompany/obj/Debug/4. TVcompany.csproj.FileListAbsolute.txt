@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\10. Graphs and Graph Algorithms\Homework\4. TVcompany\bin\Debug\_4.TVcompany.exe.config
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\10. Graphs and Graph Algorithms\Homework\4. TVcompany\bin\Debug\_4.TVcompany.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\10. Graphs and Graph Algorithms\Homework\4. TVcompany\bin\Debug\_4.TVcompany.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\10. Graphs and Graph Algorithms\Homework\4. TVcompany\obj\Debug\4. TVcompany.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\10. Graphs and Graph Algorithms\Homework\4. TVcompany\obj\Debug\_4.TVcompany.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\10. Graphs and Graph Algorithms\Homework\4. TVcompany\obj\Debug\_4.TVcompany.pdb

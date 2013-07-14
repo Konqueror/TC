@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\09. Dynamic Programming\Homework\2. Minimum Edit Distance\bin\Debug\_2.Minimum_Edit_Distance.exe.config
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\09. Dynamic Programming\Homework\2. Minimum Edit Distance\bin\Debug\_2.Minimum_Edit_Distance.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\09. Dynamic Programming\Homework\2. Minimum Edit Distance\bin\Debug\_2.Minimum_Edit_Distance.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\09. Dynamic Programming\Homework\2. Minimum Edit Distance\obj\Debug\_2.Minimum_Edit_Distance.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\09. Dynamic Programming\Homework\2. Minimum Edit Distance\obj\Debug\_2.Minimum_Edit_Distance.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\09. Dynamic Programming\Homework\2. Minimum Edit Distance\obj\Debug\2. Minimum Edit Distance.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\10. Graphs and Graph Algorithms\Homework\Homework\bin\Debug\Homework.exe.config
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\10. Graphs and Graph Algorithms\Homework\Homework\bin\Debug\Homework.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\10. Graphs and Graph Algorithms\Homework\Homework\bin\Debug\Homework.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\10. Graphs and Graph Algorithms\Homework\Homework\obj\Debug\Homework.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\10. Graphs and Graph Algorithms\Homework\Homework\obj\Debug\Homework.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\10. Graphs and Graph Algorithms\Homework\Homework\obj\Debug\Homework.pdb

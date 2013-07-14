@@ -1,0 +1,8 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\05. Data Structures Efficiency\Efficiency\Efficiency\bin\Debug\Efficiency.exe.config
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\05. Data Structures Efficiency\Efficiency\Efficiency\bin\Debug\Efficiency.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\05. Data Structures Efficiency\Efficiency\Efficiency\bin\Debug\Efficiency.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\05. Data Structures Efficiency\Efficiency\Efficiency\bin\Debug\PowerCollections.dll
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\05. Data Structures Efficiency\Efficiency\Efficiency\bin\Debug\PowerCollections.xml
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\05. Data Structures Efficiency\Efficiency\Efficiency\obj\Debug\Efficiency.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\05. Data Structures Efficiency\Efficiency\Efficiency\obj\Debug\Efficiency.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\05. Data Structures Efficiency\Efficiency\Efficiency\obj\Debug\Efficiency.pdb

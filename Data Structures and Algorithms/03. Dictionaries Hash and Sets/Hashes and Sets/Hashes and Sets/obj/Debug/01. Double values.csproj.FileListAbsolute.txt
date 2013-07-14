@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Hashes and Sets\Hashes and Sets\bin\Debug\Hashes and Sets.exe.config
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Hashes and Sets\Hashes and Sets\bin\Debug\Hashes and Sets.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Hashes and Sets\Hashes and Sets\bin\Debug\Hashes and Sets.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Hashes and Sets\Hashes and Sets\obj\Debug\01. Double values.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Hashes and Sets\Hashes and Sets\obj\Debug\Hashes and Sets.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Hashes and Sets\Hashes and Sets\obj\Debug\Hashes and Sets.pdb

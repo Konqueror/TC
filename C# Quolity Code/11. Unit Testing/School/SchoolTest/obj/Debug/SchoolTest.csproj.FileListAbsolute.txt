@@ -1,0 +1,7 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\11. Unit Testing\School\SchoolTest\obj\Debug\SchoolTest.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\11. Unit Testing\School\SchoolTest\bin\Debug\SchoolTest.dll
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\11. Unit Testing\School\SchoolTest\bin\Debug\SchoolTest.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\11. Unit Testing\School\SchoolTest\bin\Debug\School.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\11. Unit Testing\School\SchoolTest\bin\Debug\School.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\11. Unit Testing\School\SchoolTest\obj\Debug\SchoolTest.dll
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\11. Unit Testing\School\SchoolTest\obj\Debug\SchoolTest.pdb

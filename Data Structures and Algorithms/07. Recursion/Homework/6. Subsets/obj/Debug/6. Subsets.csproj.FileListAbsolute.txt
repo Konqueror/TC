@@ -1,0 +1,5 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\07. Recursion\Homework\6. Subsets\bin\Debug\_6.Subsets.exe.config
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\07. Recursion\Homework\6. Subsets\bin\Debug\_6.Subsets.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\07. Recursion\Homework\6. Subsets\bin\Debug\_6.Subsets.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\07. Recursion\Homework\6. Subsets\obj\Debug\_6.Subsets.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\07. Recursion\Homework\6. Subsets\obj\Debug\_6.Subsets.pdb

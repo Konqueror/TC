@@ -1,0 +1,8 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\04. Advanced Data Structures\Advanced\2. Products\bin\Debug\_2.Products.exe.config
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\04. Advanced Data Structures\Advanced\2. Products\bin\Debug\_2.Products.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\04. Advanced Data Structures\Advanced\2. Products\bin\Debug\_2.Products.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\04. Advanced Data Structures\Advanced\2. Products\obj\Debug\2. Products.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\04. Advanced Data Structures\Advanced\2. Products\obj\Debug\_2.Products.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\04. Advanced Data Structures\Advanced\2. Products\obj\Debug\_2.Products.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\04. Advanced Data Structures\Advanced\2. Products\bin\Debug\PowerCollections.dll
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\04. Advanced Data Structures\Advanced\2. Products\bin\Debug\PowerCollections.xml

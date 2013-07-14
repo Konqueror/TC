@@ -1,0 +1,1 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\04. Advanced Data Structures\Advanced\FindWords\bin\Debug\FindWords.exe.config

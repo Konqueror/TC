@@ -1,0 +1,7 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\13 . Refactoring\MatrixTaskTest\bin\Debug\MatrixTaskTest.dll
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\13 . Refactoring\MatrixTaskTest\bin\Debug\MatrixTaskTest.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\13 . Refactoring\MatrixTaskTest\bin\Debug\GameFifteen.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\13 . Refactoring\MatrixTaskTest\bin\Debug\GameFifteen.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\13 . Refactoring\MatrixTaskTest\obj\Debug\MatrixTaskTest.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\13 . Refactoring\MatrixTaskTest\obj\Debug\MatrixTaskTest.dll
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\C# Quolity Code\13 . Refactoring\MatrixTaskTest\obj\Debug\MatrixTaskTest.pdb

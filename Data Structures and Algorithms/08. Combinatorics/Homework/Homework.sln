@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Passwords", "Homework\1. Passwords.csproj", "{0275A7C9-AF16-470B-A939-E5A10AA6C1F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Bunny", "`2. Bunny\2. Bunny.csproj", "{73A8F06D-0374-41DE-9643-EBC04655A5E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0275A7C9-AF16-470B-A939-E5A10AA6C1F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0275A7C9-AF16-470B-A939-E5A10AA6C1F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0275A7C9-AF16-470B-A939-E5A10AA6C1F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0275A7C9-AF16-470B-A939-E5A10AA6C1F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73A8F06D-0374-41DE-9643-EBC04655A5E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73A8F06D-0374-41DE-9643-EBC04655A5E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73A8F06D-0374-41DE-9643-EBC04655A5E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73A8F06D-0374-41DE-9643-EBC04655A5E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Hashes and Sets\04. Hash table\bin\Debug\_04.Hash_table.exe.config
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Hashes and Sets\04. Hash table\bin\Debug\_04.Hash_table.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Hashes and Sets\04. Hash table\bin\Debug\_04.Hash_table.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Hashes and Sets\04. Hash table\obj\Debug\04. Hash table.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Hashes and Sets\04. Hash table\obj\Debug\_04.Hash_table.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Hashes and Sets\04. Hash table\obj\Debug\_04.Hash_table.pdb

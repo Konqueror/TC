@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Hashes and Sets\02. Odd number of times\bin\Debug\_02.Odd_number_of_times.exe.config
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Hashes and Sets\02. Odd number of times\bin\Debug\_02.Odd_number_of_times.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Hashes and Sets\02. Odd number of times\bin\Debug\_02.Odd_number_of_times.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Hashes and Sets\02. Odd number of times\obj\Debug\02. Odd number of times.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Hashes and Sets\02. Odd number of times\obj\Debug\_02.Odd_number_of_times.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Hashes and Sets\02. Odd number of times\obj\Debug\_02.Odd_number_of_times.pdb

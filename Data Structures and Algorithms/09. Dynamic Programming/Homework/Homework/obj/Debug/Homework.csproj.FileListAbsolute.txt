@@ -1,0 +1,1 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\09. Dynamic Programming\Homework\Homework\bin\Debug\Homework.exe.config

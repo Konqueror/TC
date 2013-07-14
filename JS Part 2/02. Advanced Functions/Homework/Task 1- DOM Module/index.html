@@ -1,0 +1,26 @@
+<!doctype html>
+<head>
+	<meta charset="utf-8" />
+	<title>Task 1 -  DOM Module</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	01. Create a module for working with DOM. The module should have the following functionality
+	<ul>
+		<li>Add DOM element to parent element given by selector</li>
+		<li>Remove element from the DOM  by given selector</li>
+		<li>Attach event to given selector by given event type and event hander</li>
+		<li>Add elements to buffer, which appends them to the DOM when their count for some selector becomes 100</li>
+		<li>The buffer contains elements for each selector it gets</li>
+		<li>Get elements by CSS selector</li>
+		<li>The module should reveal only the methods</li>
+	</ul>
+	<button onclick="DOMmodule.addChild('#box', 'p', 'Just a new paragraph in the box')">1. Add element to parent!</button><br>
+	<button onclick="DOMmodule.removeElement('#box')">2. Remove element</button><br>
+	<button onclick="DOMmodule.attachEvent('#box', 'mouseover', function () { alert('Event workds :)'); })">3. Add onMouseOver event to the box</button><br>
+	<button onclick="DOMmodule.addElementToBuffer('#box', 'div', 'I am from the buffer')">4. Add a div to the buffer</button><br>
+	<button onclick="DOMmodule.addElementToBuffer('body', 'p', 'I am from the buffer')">4. Add a paragraph to the buffer</button><br>
+	<div id='box'>Testing text box here!</div>
+
+	<script src="DOMmodule.js"></script>
+</body>

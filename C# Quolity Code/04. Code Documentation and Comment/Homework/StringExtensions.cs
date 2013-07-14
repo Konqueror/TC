@@ -299,10 +299,5 @@
             Buffer.BlockCopy(input.ToCharArray(), 0, bytesArray, 0, bytesArray.Length);
             return bytesArray;
         }
-        public static void Main()
-        {
-            Console.WriteLine("te");
-        }
-
     }
 }

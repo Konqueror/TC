@@ -1,0 +1,8 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\04. Advanced Data Structures\Advanced\FindWords\obj\Debug\3. FindWords.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\04. Advanced Data Structures\Advanced\FindWords\bin\Debug\FindWords.exe.config
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\04. Advanced Data Structures\Advanced\FindWords\bin\Debug\FindWords.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\04. Advanced Data Structures\Advanced\FindWords\bin\Debug\FindWords.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\04. Advanced Data Structures\Advanced\FindWords\bin\Debug\PowerCollections.dll
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\04. Advanced Data Structures\Advanced\FindWords\bin\Debug\PowerCollections.xml
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\04. Advanced Data Structures\Advanced\FindWords\obj\Debug\FindWords.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\04. Advanced Data Structures\Advanced\FindWords\obj\Debug\FindWords.pdb

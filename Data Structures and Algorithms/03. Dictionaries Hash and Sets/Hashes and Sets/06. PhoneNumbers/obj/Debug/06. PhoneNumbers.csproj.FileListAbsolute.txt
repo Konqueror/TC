@@ -1,0 +1,10 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Hashes and Sets\06. PhoneNumbers\bin\Debug\_06.PhoneNumbers.exe.config
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Hashes and Sets\06. PhoneNumbers\bin\Debug\_06.PhoneNumbers.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Hashes and Sets\06. PhoneNumbers\bin\Debug\_06.PhoneNumbers.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Hashes and Sets\06. PhoneNumbers\obj\Debug\06. PhoneNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Hashes and Sets\06. PhoneNumbers\obj\Debug\_06.PhoneNumbers.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Hashes and Sets\06. PhoneNumbers\obj\Debug\_06.PhoneNumbers.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Hashes and Sets\06. PhoneNumbers\bin\Debug\PowerCollections.dll
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Hashes and Sets\06. PhoneNumbers\bin\Debug\Wintellect.WindowsAzure.dll
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Hashes and Sets\06. PhoneNumbers\bin\Debug\PowerCollections.xml
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Hashes and Sets\06. PhoneNumbers\bin\Debug\Wintellect.WindowsAzure.pdb

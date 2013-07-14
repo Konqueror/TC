@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\10. Graphs and Graph Algorithms\Homework\2. Friends of Pesho\bin\Debug\_2.Friends_of_Pesho.exe.config
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\10. Graphs and Graph Algorithms\Homework\2. Friends of Pesho\bin\Debug\_2.Friends_of_Pesho.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\10. Graphs and Graph Algorithms\Homework\2. Friends of Pesho\bin\Debug\_2.Friends_of_Pesho.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\10. Graphs and Graph Algorithms\Homework\2. Friends of Pesho\obj\Debug\_2.Friends_of_Pesho.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\10. Graphs and Graph Algorithms\Homework\2. Friends of Pesho\obj\Debug\_2.Friends_of_Pesho.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\10. Graphs and Graph Algorithms\Homework\2. Friends of Pesho\obj\Debug\2. Friends of Pesho.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\06. Sorting and Seraching Algorithms\Homework\bin\Debug\SortingHomework.exe.config
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\06. Sorting and Seraching Algorithms\Homework\bin\Debug\SortingHomework.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\06. Sorting and Seraching Algorithms\Homework\bin\Debug\SortingHomework.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\06. Sorting and Seraching Algorithms\Homework\obj\Debug\SortingHomework.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\06. Sorting and Seraching Algorithms\Homework\obj\Debug\SortingHomework.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\06. Sorting and Seraching Algorithms\Homework\obj\Debug\SortingHomework.pdb

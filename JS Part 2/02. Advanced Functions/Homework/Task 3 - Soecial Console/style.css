@@ -1,0 +1,8 @@
+#console{
+	margin: 30px;
+	padding: 10px;
+	border: 2px solid;
+	height: 400px;
+	background: #575757;
+	overflow:scroll;
+} 

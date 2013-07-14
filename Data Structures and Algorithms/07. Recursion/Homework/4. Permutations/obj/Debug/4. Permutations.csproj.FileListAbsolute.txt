@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\07. Recursion\Homework\4. Permutations\bin\Debug\_4.Permutations.exe.config
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\07. Recursion\Homework\4. Permutations\obj\Debug\4. Permutations.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\07. Recursion\Homework\4. Permutations\bin\Debug\_4.Permutations.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\07. Recursion\Homework\4. Permutations\bin\Debug\_4.Permutations.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\07. Recursion\Homework\4. Permutations\obj\Debug\_4.Permutations.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\07. Recursion\Homework\4. Permutations\obj\Debug\_4.Permutations.pdb

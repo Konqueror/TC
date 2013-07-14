@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Trees and Traversals\Trees and Traversals\bin\Debug\Trees and Traversals.exe.config
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Trees and Traversals\Trees and Traversals\bin\Debug\Trees and Traversals.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Trees and Traversals\Trees and Traversals\bin\Debug\Trees and Traversals.pdb
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Trees and Traversals\Trees and Traversals\obj\Debug\1. Tree.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Trees and Traversals\Trees and Traversals\obj\Debug\Trees and Traversals.exe
+C:\Users\Ivaylo\Documents\GitHub\Telerik-Courses\Data Structures and Algorithms\Trees and Traversals\Trees and Traversals\Trees and Traversals\obj\Debug\Trees and Traversals.pdb
